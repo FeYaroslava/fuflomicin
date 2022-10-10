@@ -1,0 +1,6212 @@
+[
+  {
+    "name": "Мебікар",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Мебікс",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Adaptol",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Mebicar",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Mebicarum",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Mebix",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Тетраметилтетраазабициклооктандион",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Tetramethyltetraazabicyclooctandione",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Адаптол",
+    "type": 1,
+    "id": "adaptol"
+  },
+  {
+    "name": "Aphobazole",
+    "type": 1,
+    "id": "afobazol"
+  },
+  {
+    "name": "Фабомотизол",
+    "type": 1,
+    "id": "afobazol"
+  },
+  {
+    "name": "Fabomotizole",
+    "type": 1,
+    "id": "afobazol"
+  },
+  {
+    "name": "Афобазол",
+    "type": 1,
+    "id": "afobazol"
+  },
+  {
+    "name": "Арпетол",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Арпетолід",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Арпефлю",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Арпетол",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "ОРВІтол",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Іммустат",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Імустат",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Уміфеновір",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Arbidol",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Umifenovir",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Арбідол",
+    "type": 1,
+    "id": "arbidol"
+  },
+  {
+    "name": "Гептрал",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Гептор",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Гепаретта",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Самелікс",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Гептразан",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Ademetionine",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Heptral",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Heptor",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Heparetta",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "SAM (SAM-e)",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "S-adenosyl-L-methionine",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Адеметіонін",
+    "type": 1,
+    "id": "ademetionin"
+  },
+  {
+    "name": "Aкридонуксусна кислота",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "Aкридоноцтова кислота",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "acridone",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "Циклоферон",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "Акридон",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "Акрідон",
+    "type": 1,
+    "id": "akridon"
+  },
+  {
+    "name": "Солкосерил",
+    "type": 1,
+    "id": "aktovegin"
+  },
+  {
+    "name": "Actovegin",
+    "type": 1,
+    "id": "aktovegin"
+  },
+  {
+    "name": "Solcoseryl",
+    "type": 1,
+    "id": "aktovegin"
+  },
+  {
+    "name": "Актовегін",
+    "type": 1,
+    "id": "aktovegin"
+  },
+  {
+    "name": "Alflutop",
+    "type": 1,
+    "id": "alflutop"
+  },
+  {
+    "name": "Алфлутоп",
+    "type": 1,
+    "id": "alflutop"
+  },
+  {
+    "name": "Alpharona",
+    "type": 1,
+    "id": "alpharona"
+  },
+  {
+    "name": "Альфарона",
+    "type": 1,
+    "id": "alpharona"
+  },
+  {
+    "name": "Alpisarin",
+    "type": 1,
+    "id": "alpizarin"
+  },
+  {
+    "name": "Тетрагидроксиглюкопиранозилксантен",
+    "type": 1,
+    "id": "alpizarin"
+  },
+  {
+    "name": "Tetrahydroxyglucopyranosilxanten",
+    "type": 1,
+    "id": "alpizarin"
+  },
+  {
+    "name": "Алпизарин",
+    "type": 1,
+    "id": "alpizarin"
+  },
+  {
+    "name": "Лавомакс",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Тилорон",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Тилаксин",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Amixin",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Tilorone",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Амиксин",
+    "type": 1,
+    "id": "amiksin"
+  },
+  {
+    "name": "Энисамия йодид",
+    "type": 1,
+    "id": "amizon"
+  },
+  {
+    "name": "Enisamium iodide",
+    "type": 1,
+    "id": "amizon"
+  },
+  {
+    "name": "Нобазит",
+    "type": 1,
+    "id": "amizon"
+  },
+  {
+    "name": "Амизон",
+    "type": 1,
+    "id": "amizon"
+  },
+  {
+    "name": "Метамизол",
+    "type": 1,
+    "id": "analgin"
+  },
+  {
+    "name": "Metamizole",
+    "type": 1,
+    "id": "analgin"
+  },
+  {
+    "name": "Dipyrone",
+    "type": 1,
+    "id": "analgin"
+  },
+  {
+    "name": "Анальгин",
+    "type": 1,
+    "id": "analgin"
+  },
+  {
+    "name": "Антралив",
+    "type": 1,
+    "id": "antraliv"
+  },
+  {
+    "name": "Betulin",
+    "type": 1,
+    "id": "betulin"
+  },
+  {
+    "name": "Бетулин",
+    "type": 1,
+    "id": "betulin"
+  },
+  {
+    "name": "Bioparox",
+    "type": 1,
+    "id": "bioparoks"
+  },
+  {
+    "name": "Fusafungin",
+    "type": 1,
+    "id": "bioparoks"
+  },
+  {
+    "name": "Биопарокс",
+    "type": 1,
+    "id": "bioparoks"
+  },
+  {
+    "name": "Биопарокс",
+    "type": 1,
+    "id": "bioparox"
+  },
+  {
+    "name": "Huatuo pills",
+    "type": 1,
+    "id": "bolusyHuato"
+  },
+  {
+    "name": "Huatuo Zaizao Wan",
+    "type": 1,
+    "id": "bolusyHuato"
+  },
+  {
+    "name": "Болюсы Хуато",
+    "type": 1,
+    "id": "bolusyHuato"
+  },
+  {
+    "name": "Бренциале",
+    "type": 1,
+    "id": "brenciale"
+  },
+  {
+    "name": "Bronchipret",
+    "type": 1,
+    "id": "bronchipret"
+  },
+  {
+    "name": "Пертуссин",
+    "type": 1,
+    "id": "bronchipret"
+  },
+  {
+    "name": "Бронхикум",
+    "type": 1,
+    "id": "bronchipret"
+  },
+  {
+    "name": "Туссамаг",
+    "type": 1,
+    "id": "bronchipret"
+  },
+  {
+    "name": "Бронхипрет",
+    "type": 1,
+    "id": "bronchipret"
+  },
+  {
+    "name": "Тринефрон",
+    "type": 1,
+    "id": "canephron"
+  },
+  {
+    "name": "Canephron",
+    "type": 1,
+    "id": "canephron"
+  },
+  {
+    "name": "Канефрон",
+    "type": 1,
+    "id": "canephron"
+  },
+  {
+    "name": "Винпоцетин",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Винкамин",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Оксибрал",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Cavinton",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Vinpocetine",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "алкалоиды малого барвинка Vinca minor",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Кавинтон",
+    "type": 1,
+    "id": "cavinton"
+  },
+  {
+    "name": "Cellex",
+    "type": 1,
+    "id": "cellex"
+  },
+  {
+    "name": "Целлекс",
+    "type": 1,
+    "id": "cellex"
+  },
+  {
+    "name": "Cerebrolysin",
+    "type": 1,
+    "id": "cerebrolysin"
+  },
+  {
+    "name": "Церебролизин",
+    "type": 1,
+    "id": "cerebrolysin"
+  },
+  {
+    "name": "Цераксон",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Нейпилепт",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Сомазин",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Роноцит",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Citicoline",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Ceraxon",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Cytidinediphosphocholine",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "CDP-choline",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Цитиколин",
+    "type": 1,
+    "id": "citicoline"
+  },
+  {
+    "name": "Cocarboxylase",
+    "type": 1,
+    "id": "cocarboxylase"
+  },
+  {
+    "name": "Кокарбоксилаза",
+    "type": 1,
+    "id": "cocarboxylase"
+  },
+  {
+    "name": "Cogitum",
+    "type": 1,
+    "id": "cogitum"
+  },
+  {
+    "name": "Ацетиламиноянтарная кислота",
+    "type": 1,
+    "id": "cogitum"
+  },
+  {
+    "name": "Acetylaminosuccinic acid",
+    "type": 1,
+    "id": "cogitum"
+  },
+  {
+    "name": "Когитум",
+    "type": 1,
+    "id": "cogitum"
+  },
+  {
+    "name": "Cortexin",
+    "type": 1,
+    "id": "cortexin"
+  },
+  {
+    "name": "Кортексин",
+    "type": 1,
+    "id": "cortexin"
+  },
+  {
+    "name": "Cyclodynon",
+    "type": 1,
+    "id": "cyclodynon"
+  },
+  {
+    "name": "Циклодинон",
+    "type": 1,
+    "id": "cyclodynon"
+  },
+  {
+    "name": "Cycloferon",
+    "type": 1,
+    "id": "cycloferon"
+  },
+  {
+    "name": "Meglumine acridоnacetate",
+    "type": 1,
+    "id": "cycloferon"
+  },
+  {
+    "name": "Циклоферон",
+    "type": 1,
+    "id": "cycloferon"
+  },
+  {
+    "name": "Cystone",
+    "type": 1,
+    "id": "cystone"
+  },
+  {
+    "name": "Цистон",
+    "type": 1,
+    "id": "cystone"
+  },
+  {
+    "name": "Cytoflavin",
+    "type": 1,
+    "id": "cytoflavin"
+  },
+  {
+    "name": "Цитофлавин",
+    "type": 1,
+    "id": "cytoflavin"
+  },
+  {
+    "name": "Cytovir-3",
+    "type": 1,
+    "id": "cytovir3"
+  },
+  {
+    "name": "аскорбинка + тимоген + бендазол",
+    "type": 1,
+    "id": "cytovir3"
+  },
+  {
+    "name": "Цитовир-3",
+    "type": 1,
+    "id": "cytovir3"
+  },
+  {
+    "name": "Derinat",
+    "type": 1,
+    "id": "derinat"
+  },
+  {
+    "name": "Дезоксирибонуклеат натрия",
+    "type": 1,
+    "id": "derinat"
+  },
+  {
+    "name": "Sodium deoxyribonucleate",
+    "type": 1,
+    "id": "derinat"
+  },
+  {
+    "name": "Деринат",
+    "type": 1,
+    "id": "derinat"
+  },
+  {
+    "name": "Венарус",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Флебавен",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Флебодиа",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "очищенная микронизированная фракция флавоноидов",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Detralex",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Hesperidin + Diosmin",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "MPFF",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Детралекс",
+    "type": 1,
+    "id": "detralex"
+  },
+  {
+    "name": "Dibazol",
+    "type": 1,
+    "id": "dibazol"
+  },
+  {
+    "name": "Бендазол",
+    "type": 1,
+    "id": "dibazol"
+  },
+  {
+    "name": "Bendazole",
+    "type": 1,
+    "id": "dibazol"
+  },
+  {
+    "name": "Дибазол",
+    "type": 1,
+    "id": "dibazol"
+  },
+  {
+    "name": "Дигидрокверцитин",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Кверцетин",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Diquertin",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Dihydroquercetin",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Quercetin",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Диквертин",
+    "type": 1,
+    "id": "diquertin"
+  },
+  {
+    "name": "Дона",
+    "type": 1,
+    "id": "dona"
+  },
+  {
+    "name": "Dimephosphon",
+    "type": 1,
+    "id": "dimephosphon"
+  },
+  {
+    "name": "Диметилоксобутилфосфонилдиметилат",
+    "type": 1,
+    "id": "dimephosphon"
+  },
+  {
+    "name": "Dimethyloxobutylphosphonylmethylate",
+    "type": 1,
+    "id": "dimephosphon"
+  },
+  {
+    "name": "Димефосфон",
+    "type": 1,
+    "id": "dimephosphon"
+  },
+  {
+    "name": "Эхинацея пурпурная",
+    "type": 1,
+    "id": "echinacea"
+  },
+  {
+    "name": "Echinacea purpurea",
+    "type": 1,
+    "id": "echinacea"
+  },
+  {
+    "name": "Эхинацея",
+    "type": 1,
+    "id": "echinacea"
+  },
+  {
+    "name": "Eltacin",
+    "type": 1,
+    "id": "eltacin"
+  },
+  {
+    "name": "Глицин + Глутаминовая кислота + Цистин",
+    "type": 1,
+    "id": "eltacin"
+  },
+  {
+    "name": "Элтацин",
+    "type": 1,
+    "id": "eltacin"
+  },
+  {
+    "name": "Кардиоксипин",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "Эмоксибел",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "метилэтилпиридинол",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "Emoxypine",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "methylethylpyridinol",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "Эмоксипин",
+    "type": 1,
+    "id": "emoxypine"
+  },
+  {
+    "name": "Сульбутиамин",
+    "type": 1,
+    "id": "enerion"
+  },
+  {
+    "name": "sulbutiamine",
+    "type": 1,
+    "id": "enerion"
+  },
+  {
+    "name": "Энерион",
+    "type": 1,
+    "id": "enerion"
+  },
+  {
+    "name": "Enterosgel",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "Полиметилсилоксана полигидрат",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "гидрогель метилкремниевой кислоты",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "Polymethylsiloxane polyhydrate",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "Methylsiliconic acid hydrogel",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "Энтеросгель",
+    "type": 1,
+    "id": "enterosgel"
+  },
+  {
+    "name": "эпигаллокатехин-3-галлат",
+    "type": 1,
+    "id": "epigallat"
+  },
+  {
+    "name": "epigallocatechin-3-gallate",
+    "type": 1,
+    "id": "epigallat"
+  },
+  {
+    "name": "EGCG",
+    "type": 1,
+    "id": "epigallat"
+  },
+  {
+    "name": "Эпигаллат",
+    "type": 1,
+    "id": "epigallat"
+  },
+  {
+    "name": "Esberitox",
+    "type": 1,
+    "id": "esberitox"
+  },
+  {
+    "name": "Эсберитокс",
+    "type": 1,
+    "id": "esberitox"
+  },
+  {
+    "name": "Эссенциале",
+    "type": 1,
+    "id": "essenciale"
+  },
+  {
+    "name": "Flacosidum",
+    "type": 1,
+    "id": "flacosidum"
+  },
+  {
+    "name": "Флакозид",
+    "type": 1,
+    "id": "flacosidum"
+  },
+  {
+    "name": "Фосфоглив",
+    "type": 1,
+    "id": "fosphogliv"
+  },
+  {
+    "name": "Фосфонциале",
+    "type": 1,
+    "id": "fosphonciale"
+  },
+  {
+    "name": "Galavit",
+    "type": 1,
+    "id": "galavit"
+  },
+  {
+    "name": "Тамерит",
+    "type": 1,
+    "id": "galavit"
+  },
+  {
+    "name": "Аминодигидрофталазиндион натрия",
+    "type": 1,
+    "id": "galavit"
+  },
+  {
+    "name": "Aminodihydrophthalasindione sodium",
+    "type": 1,
+    "id": "galavit"
+  },
+  {
+    "name": "Галавит",
+    "type": 1,
+    "id": "galavit"
+  },
+  {
+    "name": "Гаммалон",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Gammalon",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Аминалон",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Aminalon",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Пикамилон",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Picamilonum",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "ГАМК",
+    "type": 1,
+    "id": "gamk"
+  },
+  {
+    "name": "Гельмина",
+    "type": 1,
+    "id": "gelmina"
+  },
+  {
+    "name": "Genferon",
+    "type": 1,
+    "id": "genferon"
+  },
+  {
+    "name": "Генферон",
+    "type": 1,
+    "id": "genferon"
+  },
+  {
+    "name": "Gliatilin",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Церетон",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Церепро",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Холина альфосцерат",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Choline alfoscerate",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Глиатилин",
+    "type": 1,
+    "id": "gliatilin"
+  },
+  {
+    "name": "Glutargin",
+    "type": 1,
+    "id": "glutargin"
+  },
+  {
+    "name": "аргинин",
+    "type": 1,
+    "id": "glutargin"
+  },
+  {
+    "name": "Arginine glutamate",
+    "type": 1,
+    "id": "glutargin"
+  },
+  {
+    "name": "Глутаргин",
+    "type": 1,
+    "id": "glutargin"
+  },
+  {
+    "name": "Glutoxim",
+    "type": 1,
+    "id": "glutoxim"
+  },
+  {
+    "name": "глутамил-цистеинил-глицин динатрия",
+    "type": 1,
+    "id": "glutoxim"
+  },
+  {
+    "name": "Glutamyl-Cysteinyl-Glycine disodium",
+    "type": 1,
+    "id": "glutoxim"
+  },
+  {
+    "name": "Глутоксим",
+    "type": 1,
+    "id": "glutoxim"
+  },
+  {
+    "name": "Glycine",
+    "type": 1,
+    "id": "glycine"
+  },
+  {
+    "name": "Глицин",
+    "type": 1,
+    "id": "glycine"
+  },
+  {
+    "name": "Grippferon",
+    "type": 1,
+    "id": "grippferon"
+  },
+  {
+    "name": "Гриппферон",
+    "type": 1,
+    "id": "grippferon"
+  },
+  {
+    "name": "Гриппол",
+    "type": 1,
+    "id": "grippol"
+  },
+  {
+    "name": "Проспан",
+    "type": 1,
+    "id": "hedelix"
+  },
+  {
+    "name": "Hedelix",
+    "type": 1,
+    "id": "hedelix"
+  },
+  {
+    "name": "Геделикс",
+    "type": 1,
+    "id": "hedelix"
+  },
+  {
+    "name": "Хондроитин",
+    "type": 1,
+    "id": "hondroxid"
+  },
+  {
+    "name": "Хондроксид",
+    "type": 1,
+    "id": "hondroxid"
+  },
+  {
+    "name": "Эребра",
+    "type": 1,
+    "id": "hyporhamin"
+  },
+  {
+    "name": "сухой экстракт листьев облепихи",
+    "type": 1,
+    "id": "hyporhamin"
+  },
+  {
+    "name": "hyppophae rhamnoides",
+    "type": 1,
+    "id": "hyporhamin"
+  },
+  {
+    "name": "Hiporhamin",
+    "type": 1,
+    "id": "hyporhamin"
+  },
+  {
+    "name": "Гипорамин",
+    "type": 1,
+    "id": "hyporhamin"
+  },
+  {
+    "name": "Олифен",
+    "type": 1,
+    "id": "hypoxenum"
+  },
+  {
+    "name": "Hypoxenum",
+    "type": 1,
+    "id": "hypoxenum"
+  },
+  {
+    "name": "Полидигидроксифенилентиосульфонат натрия",
+    "type": 1,
+    "id": "hypoxenum"
+  },
+  {
+    "name": "Polydihydroxyphenylenethiosulfonate sodium",
+    "type": 1,
+    "id": "hypoxenum"
+  },
+  {
+    "name": "Гипоксен",
+    "type": 1,
+    "id": "hypoxenum"
+  },
+  {
+    "name": "Нобен",
+    "type": 1,
+    "id": "idebenone"
+  },
+  {
+    "name": "Idebenone",
+    "type": 1,
+    "id": "idebenone"
+  },
+  {
+    "name": "Идебенон",
+    "type": 1,
+    "id": "idebenone"
+  },
+  {
+    "name": "Hylak forte",
+    "type": 1,
+    "id": "hylakForte"
+  },
+  {
+    "name": "Хилак форте",
+    "type": 1,
+    "id": "hylakForte"
+  },
+  {
+    "name": "Иммунорм",
+    "type": 1,
+    "id": "immunal"
+  },
+  {
+    "name": "Immunal",
+    "type": 1,
+    "id": "immunal"
+  },
+  {
+    "name": "Иммунал",
+    "type": 1,
+    "id": "immunal"
+  },
+  {
+    "name": "Бронхо-мунал",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "Broncho-Vaxom",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "Bacterial extract OM-85",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "OM-85",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "ИРС 19",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "IRS 19",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "Имудон",
+    "type": 1,
+    "id": "imudon"
+  },
+  {
+    "name": "Imunofan",
+    "type": 1,
+    "id": "imunofan"
+  },
+  {
+    "name": "олигопептид аргинил-альфа-аспартил-лизил-валил-тирозил-аргинин",
+    "type": 1,
+    "id": "imunofan"
+  },
+  {
+    "name": "Arginil-alfa-aspartil-lysil-valil-tyrosil- arginine",
+    "type": 1,
+    "id": "imunofan"
+  },
+  {
+    "name": "Имунофан",
+    "type": 1,
+    "id": "imunofan"
+  },
+  {
+    "name": "Imunorix",
+    "type": 1,
+    "id": "imunorix"
+  },
+  {
+    "name": "Пидотимод",
+    "type": 1,
+    "id": "imunorix"
+  },
+  {
+    "name": "Pidotimod",
+    "type": 1,
+    "id": "imunorix"
+  },
+  {
+    "name": "Имунорикс",
+    "type": 1,
+    "id": "imunorix"
+  },
+  {
+    "name": "Индoл-3-Карбинол",
+    "type": 1,
+    "id": "indinol"
+  },
+  {
+    "name": "Indole-3-Carbinol",
+    "type": 1,
+    "id": "indinol"
+  },
+  {
+    "name": "I-3-C",
+    "type": 1,
+    "id": "indinol"
+  },
+  {
+    "name": "Индинол",
+    "type": 1,
+    "id": "indinol"
+  },
+  {
+    "name": "Ингарон",
+    "type": 1,
+    "id": "ingaron"
+  },
+  {
+    "name": "Ingavirin",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Имидазолилэтанамид пентандиовой кислоты",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "imidazolyl ethanamide pentandioic acid",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "IEPA",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Дикарбимин",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Витавирин",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Vitavirin",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Ингавирин",
+    "type": 1,
+    "id": "ingavirin"
+  },
+  {
+    "name": "Изопринозин",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Гроприносин",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Рибоксин",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Рибонозин",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Isoprinosine",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Inosine pranobex",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Inosiplex",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Инозин",
+    "type": 1,
+    "id": "inosine"
+  },
+  {
+    "name": "Instenon",
+    "type": 1,
+    "id": "instenon"
+  },
+  {
+    "name": "Гексобендин + Этамиван + Этофиллин",
+    "type": 1,
+    "id": "instenon"
+  },
+  {
+    "name": "hexobendine + etamivan + etofylline",
+    "type": 1,
+    "id": "instenon"
+  },
+  {
+    "name": "Инстенон",
+    "type": 1,
+    "id": "instenon"
+  },
+  {
+    "name": "Iodantipirin",
+    "type": 1,
+    "id": "iodantipirin"
+  },
+  {
+    "name": "Йодофеназон",
+    "type": 1,
+    "id": "iodantipirin"
+  },
+  {
+    "name": "Iodophenazone",
+    "type": 1,
+    "id": "iodantipirin"
+  },
+  {
+    "name": "Йодантипирин",
+    "type": 1,
+    "id": "iodantipirin"
+  },
+  {
+    "name": "Изофра",
+    "type": 1,
+    "id": "izofra"
+  },
+  {
+    "name": "Kagocel",
+    "type": 1,
+    "id": "kagocel"
+  },
+  {
+    "name": "Госсипол + карбоксиметилцеллюлоза",
+    "type": 1,
+    "id": "kagocel"
+  },
+  {
+    "name": "Кагоцел",
+    "type": 1,
+    "id": "kagocel"
+  },
+  {
+    "name": "Карипазим",
+    "type": 1,
+    "id": "karipain"
+  },
+  {
+    "name": "Карипаин",
+    "type": 1,
+    "id": "karipain"
+  },
+  {
+    "name": "Kipferon",
+    "type": 1,
+    "id": "kipferon"
+  },
+  {
+    "name": "Кипферон",
+    "type": 1,
+    "id": "kipferon"
+  },
+  {
+    "name": "Klimadynon",
+    "type": 1,
+    "id": "klimadynon"
+  },
+  {
+    "name": "Климадинон",
+    "type": 1,
+    "id": "klimadynon"
+  },
+  {
+    "name": "Laennec",
+    "type": 1,
+    "id": "laennec"
+  },
+  {
+    "name": "Лаеннек",
+    "type": 1,
+    "id": "laennec"
+  },
+  {
+    "name": "Лаферобион",
+    "type": 1,
+    "id": "laferobion"
+  },
+  {
+    "name": "Le cran",
+    "type": 1,
+    "id": "leCran"
+  },
+  {
+    "name": "Лекран",
+    "type": 1,
+    "id": "leCran"
+  },
+  {
+    "name": "Глюкозаминилмурамилдипептид",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "ГМДП",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "Likopid",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "Licopid",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "Glucoseminyl muramildipeptide",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "Ликопид",
+    "type": 1,
+    "id": "licopid"
+  },
+  {
+    "name": "Linex",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Бифидумбактерин",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Бифиформ",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Лактобактерин",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Примадофилус",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Аципол",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Нормобакт",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Линекс",
+    "type": 1,
+    "id": "linex"
+  },
+  {
+    "name": "Лив 52",
+    "type": 1,
+    "id": "liv52"
+  },
+  {
+    "name": "Ливолин",
+    "type": 1,
+    "id": "livolin"
+  },
+  {
+    "name": "Longidaza",
+    "type": 1,
+    "id": "longidaza"
+  },
+  {
+    "name": "Гиалуронидаза + Азоксимера бромид",
+    "type": 1,
+    "id": "longidaza"
+  },
+  {
+    "name": "Hyaluronidase + Azoximer",
+    "type": 1,
+    "id": "longidaza"
+  },
+  {
+    "name": "Лонгидаза",
+    "type": 1,
+    "id": "longidaza"
+  },
+  {
+    "name": "Lysobact",
+    "type": 1,
+    "id": "lysobact"
+  },
+  {
+    "name": "Лизоцим + пиридоксин",
+    "type": 1,
+    "id": "lysobact"
+  },
+  {
+    "name": "Лизобакт",
+    "type": 1,
+    "id": "lysobact"
+  },
+  {
+    "name": "meglumine",
+    "type": 1,
+    "id": "meglumine"
+  },
+  {
+    "name": "N-Метилглюкамин",
+    "type": 1,
+    "id": "meglumine"
+  },
+  {
+    "name": "Меглюмин",
+    "type": 1,
+    "id": "meglumine"
+  },
+  {
+    "name": "Metaprote",
+    "type": 1,
+    "id": "metaprote"
+  },
+  {
+    "name": "Этилтиобензимидазола гидробромид",
+    "type": 1,
+    "id": "metaprote"
+  },
+  {
+    "name": "Ethylthiobenzimidazole hydrobromide",
+    "type": 1,
+    "id": "metaprote"
+  },
+  {
+    "name": "Метапрот",
+    "type": 1,
+    "id": "metaprote"
+  },
+  {
+    "name": "Астрокс",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Мексиприм",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Мексикор",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Медомекси",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Мексидант",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Нейрокс",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Mexidol",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Neurox",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Этилметилгидроксипиридина сукцинат",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "ethylmethylhydroxypyridine succinate",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Мексидол",
+    "type": 1,
+    "id": "mexidol"
+  },
+  {
+    "name": "Кардионат",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Мельдоний",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Мельфор",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Идринол",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Mildronate",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Meldonium",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Милдронат",
+    "type": 1,
+    "id": "mildronate"
+  },
+  {
+    "name": "Мирамистин",
+    "type": 1,
+    "id": "miramistin"
+  },
+  {
+    "name": "Monurelle",
+    "type": 1,
+    "id": "monurelle"
+  },
+  {
+    "name": "Монурель",
+    "type": 1,
+    "id": "monurelle"
+  },
+  {
+    "name": "Мукосат",
+    "type": 1,
+    "id": "mukosat"
+  },
+  {
+    "name": "Myrtol",
+    "type": 1,
+    "id": "myrtol"
+  },
+  {
+    "name": "Геломиртол",
+    "type": 1,
+    "id": "myrtol"
+  },
+  {
+    "name": "Neovir",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "Оксодигидроакридинилацетат натрия",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "Oxodihydroacridinylacetate sodium",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "Камедон",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "kamedon",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "Неовир",
+    "type": 1,
+    "id": "neovir"
+  },
+  {
+    "name": "Nooclerin",
+    "type": 1,
+    "id": "nooclerin"
+  },
+  {
+    "name": "Deanol aceglumate",
+    "type": 1,
+    "id": "nooclerin"
+  },
+  {
+    "name": "Нооклерин",
+    "type": 1,
+    "id": "nooclerin"
+  },
+  {
+    "name": "Novo-Passit",
+    "type": 1,
+    "id": "novoPassit"
+  },
+  {
+    "name": "Персен",
+    "type": 1,
+    "id": "novoPassit"
+  },
+  {
+    "name": "Persen",
+    "type": 1,
+    "id": "novoPassit"
+  },
+  {
+    "name": "Ново-пассит",
+    "type": 1,
+    "id": "novoPassit"
+  },
+  {
+    "name": "Oftalmoferon",
+    "type": 1,
+    "id": "oftalmoferon"
+  },
+  {
+    "name": "Офтальмоферон",
+    "type": 1,
+    "id": "oftalmoferon"
+  },
+  {
+    "name": "Оксонафтилин",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Тетраксолин",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Oxolin",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Oxoline",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Диоксотетрагидрокситетрагидронафталин",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Dioxotetrahydrooxytetrahydronaphthaline",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Оксолин",
+    "type": 1,
+    "id": "oxolin"
+  },
+  {
+    "name": "Panavir",
+    "type": 1,
+    "id": "panavir"
+  },
+  {
+    "name": "Панавир",
+    "type": 1,
+    "id": "panavir"
+  },
+  {
+    "name": "Эрмиталь",
+    "type": 1,
+    "id": "pankreatin"
+  },
+  {
+    "name": "Мезим форте",
+    "type": 1,
+    "id": "pankreatin"
+  },
+  {
+    "name": "Панкреатин",
+    "type": 1,
+    "id": "pankreatin"
+  },
+  {
+    "name": "Гопантам",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Пантокальцин",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Гопантеновая кислота",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Pantogam",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Hopantenic acid",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Пантогам",
+    "type": 1,
+    "id": "pantogam"
+  },
+  {
+    "name": "Анвифен",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Бифрен",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Нообут",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Ноофен",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Phenibut",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Aminophenylbutyric acid",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Фенибут",
+    "type": 1,
+    "id": "phenibut"
+  },
+  {
+    "name": "Фонтурацетам",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Фенилпирацетам",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Карфедон",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Phenotropil",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Fonturacetam",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Phenylpiracetam",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Carphedon",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Фенотропил",
+    "type": 1,
+    "id": "phenotropil"
+  },
+  {
+    "name": "Phezam",
+    "type": 1,
+    "id": "phezam"
+  },
+  {
+    "name": "пирацетам + циннаризин",
+    "type": 1,
+    "id": "phezam"
+  },
+  {
+    "name": "Фезам",
+    "type": 1,
+    "id": "phezam"
+  },
+  {
+    "name": "Piascledine",
+    "type": 1,
+    "id": "piascledine"
+  },
+  {
+    "name": "Пиаскледин",
+    "type": 1,
+    "id": "piascledine"
+  },
+  {
+    "name": "Pineamin",
+    "type": 1,
+    "id": "pineamin"
+  },
+  {
+    "name": "Пинеамин",
+    "type": 1,
+    "id": "pineamin"
+  },
+  {
+    "name": "Полидекса",
+    "type": 1,
+    "id": "polidexa"
+  },
+  {
+    "name": "Poludanum",
+    "type": 1,
+    "id": "poludanum"
+  },
+  {
+    "name": "Полиадениловая кислота + Полиуридиловая кислота",
+    "type": 1,
+    "id": "poludanum"
+  },
+  {
+    "name": "Polyadenylic acid + Polyuridilic acid",
+    "type": 1,
+    "id": "poludanum"
+  },
+  {
+    "name": "Полудан",
+    "type": 1,
+    "id": "poludanum"
+  },
+  {
+    "name": "Polyoxidonium",
+    "type": 1,
+    "id": "polyoxidonium"
+  },
+  {
+    "name": "Азоксимера бромид",
+    "type": 1,
+    "id": "polyoxidonium"
+  },
+  {
+    "name": "Azoximer bromide",
+    "type": 1,
+    "id": "polyoxidonium"
+  },
+  {
+    "name": "Полиоксидоний",
+    "type": 1,
+    "id": "polyoxidonium"
+  },
+  {
+    "name": "Триметазидин",
+    "type": 1,
+    "id": "preductal"
+  },
+  {
+    "name": "Тримектал",
+    "type": 1,
+    "id": "preductal"
+  },
+  {
+    "name": "Preductal",
+    "type": 1,
+    "id": "preductal"
+  },
+  {
+    "name": "Trimetazidine",
+    "type": 1,
+    "id": "preductal"
+  },
+  {
+    "name": "Предуктал",
+    "type": 1,
+    "id": "preductal"
+  },
+  {
+    "name": "Рrodigiosanum",
+    "type": 1,
+    "id": "prodigiosanum"
+  },
+  {
+    "name": "Продигиозан",
+    "type": 1,
+    "id": "prodigiosanum"
+  },
+  {
+    "name": "Пролит",
+    "type": 1,
+    "id": "prolit"
+  },
+  {
+    "name": "Промисан",
+    "type": 1,
+    "id": "promisan"
+  },
+  {
+    "name": "Prostagutt",
+    "type": 1,
+    "id": "prostagutt"
+  },
+  {
+    "name": "Простагут",
+    "type": 1,
+    "id": "prostagutt"
+  },
+  {
+    "name": "Иммунофлазид",
+    "type": 1,
+    "id": "proteflazid"
+  },
+  {
+    "name": "Флавозид",
+    "type": 1,
+    "id": "proteflazid"
+  },
+  {
+    "name": "Proteflazid",
+    "type": 1,
+    "id": "proteflazid"
+  },
+  {
+    "name": "Протефлазид",
+    "type": 1,
+    "id": "proteflazid"
+  },
+  {
+    "name": "Ноотропил",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Луцетам",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Ноотобрил",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Нооцетам",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Пиратропил",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Эскотропил",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Pyracetam",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Piracetam",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Piracetamum",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Пирацетам",
+    "type": 1,
+    "id": "pyracetam"
+  },
+  {
+    "name": "Энцефабол",
+    "type": 1,
+    "id": "pyritinol"
+  },
+  {
+    "name": "Pyritinol",
+    "type": 1,
+    "id": "pyritinol"
+  },
+  {
+    "name": "Encephabol",
+    "type": 1,
+    "id": "pyritinol"
+  },
+  {
+    "name": "пиридоксин",
+    "type": 1,
+    "id": "pyritinol"
+  },
+  {
+    "name": "Пиритинол",
+    "type": 1,
+    "id": "pyritinol"
+  },
+  {
+    "name": "Quinax",
+    "type": 1,
+    "id": "quinax"
+  },
+  {
+    "name": "Phacolysine",
+    "type": 1,
+    "id": "quinax"
+  },
+  {
+    "name": "Азапентацен",
+    "type": 1,
+    "id": "quinax"
+  },
+  {
+    "name": "Azapentacene",
+    "type": 1,
+    "id": "quinax"
+  },
+  {
+    "name": "Квинакс",
+    "type": 1,
+    "id": "quinax"
+  },
+  {
+    "name": "Силимарин",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Гепабене",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Бонджигар",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Легалон",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Гепасил",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Карсил",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Silymarin",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Silibinin",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Расторопша",
+    "type": 1,
+    "id": "rastoropsha"
+  },
+  {
+    "name": "Reamberin",
+    "type": 1,
+    "id": "reamberin"
+  },
+  {
+    "name": "Меглюмина натрия сукцинат",
+    "type": 1,
+    "id": "reamberin"
+  },
+  {
+    "name": "Meglumine sodium succinate",
+    "type": 1,
+    "id": "reamberin"
+  },
+  {
+    "name": "Реамберин",
+    "type": 1,
+    "id": "reamberin"
+  },
+  {
+    "name": "Refnot",
+    "type": 1,
+    "id": "refnot"
+  },
+  {
+    "name": "Рефнот",
+    "type": 1,
+    "id": "refnot"
+  },
+  {
+    "name": "Remaxol",
+    "type": 1,
+    "id": "remaxol"
+  },
+  {
+    "name": "Ремаксол",
+    "type": 1,
+    "id": "remaxol"
+  },
+  {
+    "name": "Ribomunyl",
+    "type": 1,
+    "id": "ribomunyl"
+  },
+  {
+    "name": "Immucytal",
+    "type": 1,
+    "id": "ribomunyl"
+  },
+  {
+    "name": "Рибомунил",
+    "type": 1,
+    "id": "ribomunyl"
+  },
+  {
+    "name": "Ridostin",
+    "type": 1,
+    "id": "ridostin"
+  },
+  {
+    "name": "Рибонуклеат натрия",
+    "type": 1,
+    "id": "ridostin"
+  },
+  {
+    "name": "Ribonucleate sodium",
+    "type": 1,
+    "id": "ridostin"
+  },
+  {
+    "name": "Ридостин",
+    "type": 1,
+    "id": "ridostin"
+  },
+  {
+    "name": "Sealex",
+    "type": 1,
+    "id": "sealex"
+  },
+  {
+    "name": "Сеалекс",
+    "type": 1,
+    "id": "sealex"
+  },
+  {
+    "name": "Selank",
+    "type": 1,
+    "id": "selank"
+  },
+  {
+    "name": "Селанк",
+    "type": 1,
+    "id": "selank"
+  },
+  {
+    "name": "Semax",
+    "type": 1,
+    "id": "semax"
+  },
+  {
+    "name": "Семакс",
+    "type": 1,
+    "id": "semax"
+  },
+  {
+    "name": "Sinupret",
+    "type": 1,
+    "id": "sinupret"
+  },
+  {
+    "name": "BNO-101",
+    "type": 1,
+    "id": "sinupret"
+  },
+  {
+    "name": "Синупрет",
+    "type": 1,
+    "id": "sinupret"
+  },
+  {
+    "name": "Стелла",
+    "type": 1,
+    "id": "stella"
+  },
+  {
+    "name": "Структум",
+    "type": 1,
+    "id": "structrum"
+  },
+  {
+    "name": "Tanakan",
+    "type": 1,
+    "id": "tanakan"
+  },
+  {
+    "name": "Гингко билоба",
+    "type": 1,
+    "id": "tanakan"
+  },
+  {
+    "name": "Ginkgo biloba",
+    "type": 1,
+    "id": "tanakan"
+  },
+  {
+    "name": "Танакан",
+    "type": 1,
+    "id": "tanakan"
+  },
+  {
+    "name": "Taurine",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Дибикор",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Dibicor",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Тауфон",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Taufon",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Таурин",
+    "type": 1,
+    "id": "taurine"
+  },
+  {
+    "name": "Терафлекс",
+    "type": 1,
+    "id": "teraflex"
+  },
+  {
+    "name": "липоат",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "липоевая кислота",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Thioctic acid",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "alpha lipoic acid",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "ALA",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Берлитион",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Эспа-Липон",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Нейролипон",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Октолипен",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Тиогамма",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Тиоктовая кислота",
+    "type": 1,
+    "id": "thiocticAcid"
+  },
+  {
+    "name": "Thiotriazolinum",
+    "type": 1,
+    "id": "thiotriazolinum"
+  },
+  {
+    "name": "Морфолиний-метил-триазолил-тиоацетат",
+    "type": 1,
+    "id": "thiotriazolinum"
+  },
+  {
+    "name": "Тиотриазолин",
+    "type": 1,
+    "id": "thiotriazolinum"
+  },
+  {
+    "name": "Thymalin/экстракт тимуса",
+    "type": 1,
+    "id": "thymalin"
+  },
+  {
+    "name": "Тималин",
+    "type": 1,
+    "id": "thymalin"
+  },
+  {
+    "name": "Оглюфанид",
+    "type": 1,
+    "id": "thymogen"
+  },
+  {
+    "name": "Thymogen",
+    "type": 1,
+    "id": "thymogen"
+  },
+  {
+    "name": "alfa-glutamyl-triptophan",
+    "type": 1,
+    "id": "thymogen"
+  },
+  {
+    "name": "Тимоген",
+    "type": 1,
+    "id": "thymogen"
+  },
+  {
+    "name": "Triazavirine",
+    "type": 1,
+    "id": "triazavirine"
+  },
+  {
+    "name": "Метилтионитрооксодигидротриазолотриазинид натрия",
+    "type": 1,
+    "id": "triazavirine"
+  },
+  {
+    "name": "Sodium methylthionitrooxodihydrotriazolotriazinide",
+    "type": 1,
+    "id": "triazavirine"
+  },
+  {
+    "name": "Триазавирин",
+    "type": 1,
+    "id": "triazavirine"
+  },
+  {
+    "name": "АТФ",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "Аденозинтрифосфат",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "Adenosine triphosphate",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "Кокарнит",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "АТФ-форте",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "Трифосаденин",
+    "type": 1,
+    "id": "trifosadenin"
+  },
+  {
+    "name": "Trombovazim",
+    "type": 1,
+    "id": "trombovazim"
+  },
+  {
+    "name": "Тромбовазим",
+    "type": 1,
+    "id": "trombovazim"
+  },
+  {
+    "name": "Троксерутин",
+    "type": 1,
+    "id": "troxevasin"
+  },
+  {
+    "name": "Troxevasin",
+    "type": 1,
+    "id": "troxevasin"
+  },
+  {
+    "name": "Troxerutin",
+    "type": 1,
+    "id": "troxevasin"
+  },
+  {
+    "name": "флавоноид рутина",
+    "type": 1,
+    "id": "troxevasin"
+  },
+  {
+    "name": "Троксевазин",
+    "type": 1,
+    "id": "troxevasin"
+  },
+  {
+    "name": "Umckalor",
+    "type": 1,
+    "id": "umckalor"
+  },
+  {
+    "name": "экстракт из корней пеларгонии сидовидной",
+    "type": 1,
+    "id": "umckalor"
+  },
+  {
+    "name": "Pelargonium sidoides root extract",
+    "type": 1,
+    "id": "umckalor"
+  },
+  {
+    "name": "EPs® 7630",
+    "type": 1,
+    "id": "umckalor"
+  },
+  {
+    "name": "Умкалор",
+    "type": 1,
+    "id": "umckalor"
+  },
+  {
+    "name": "Uro-Vaxom",
+    "type": 1,
+    "id": "uroVaxom"
+  },
+  {
+    "name": "OM-89",
+    "type": 1,
+    "id": "uroVaxom"
+  },
+  {
+    "name": "Уро-ваксом",
+    "type": 1,
+    "id": "uroVaxom"
+  },
+  {
+    "name": "Urolesan",
+    "type": 1,
+    "id": "urolesan"
+  },
+  {
+    "name": "Уролесан",
+    "type": 1,
+    "id": "urolesan"
+  },
+  {
+    "name": "Uroprofit",
+    "type": 1,
+    "id": "uroprofit"
+  },
+  {
+    "name": "Уропрофит",
+    "type": 1,
+    "id": "uroprofit"
+  },
+  {
+    "name": "Validol",
+    "type": 1,
+    "id": "validol"
+  },
+  {
+    "name": "Валидол",
+    "type": 1,
+    "id": "validol"
+  },
+  {
+    "name": "Valocordin",
+    "type": 1,
+    "id": "valokordin"
+  },
+  {
+    "name": "Валосердин",
+    "type": 1,
+    "id": "valokordin"
+  },
+  {
+    "name": "Корвалол",
+    "type": 1,
+    "id": "valokordin"
+  },
+  {
+    "name": "Corvalol",
+    "type": 1,
+    "id": "valokordin"
+  },
+  {
+    "name": "Валокордин",
+    "type": 1,
+    "id": "valokordin"
+  },
+  {
+    "name": "Viferon",
+    "type": 1,
+    "id": "viferon"
+  },
+  {
+    "name": "Виферон",
+    "type": 1,
+    "id": "viferon"
+  },
+  {
+    "name": "Уропрост/Простатилен/Сампрост/Vitaprost",
+    "type": 1,
+    "id": "vitaprost"
+  },
+  {
+    "name": "Витапрост",
+    "type": 1,
+    "id": "vitaprost"
+  },
+  {
+    "name": "Vizomitin",
+    "type": 1,
+    "id": "vizomitin"
+  },
+  {
+    "name": "пластохинонилдецилтрифенилфосфония бромид",
+    "type": 1,
+    "id": "vizomitin"
+  },
+  {
+    "name": "Plastohinonildeсiltriphenylphosphonium bromide",
+    "type": 1,
+    "id": "vizomitin"
+  },
+  {
+    "name": "Визомитин",
+    "type": 1,
+    "id": "vizomitin"
+  },
+  {
+    "name": "Wobenzym",
+    "type": 1,
+    "id": "wobenzym"
+  },
+  {
+    "name": "Вобэнзим",
+    "type": 1,
+    "id": "wobenzym"
+  },
+  {
+    "name": "Xymedon",
+    "type": 1,
+    "id": "xymedon"
+  },
+  {
+    "name": "Гидроксиэтилдиметилдигидропиримидин",
+    "type": 1,
+    "id": "xymedon"
+  },
+  {
+    "name": "Hydroxiethyldimethyldihydropyrimidine",
+    "type": 1,
+    "id": "xymedon"
+  },
+  {
+    "name": "Ксимедон",
+    "type": 1,
+    "id": "xymedon"
+  },
+  {
+    "name": "АбнобаВИСКУМ Фраксини",
+    "type": 2,
+    "id": "abnobaViscumFraksini"
+  },
+  {
+    "name": "Briacon Edas",
+    "type": 2,
+    "id": "briaconEdas"
+  },
+  {
+    "name": "Бриакон Эдас",
+    "type": 2,
+    "id": "briaconEdas"
+  },
+  {
+    "name": "Gentos",
+    "type": 2,
+    "id": "gentos"
+  },
+  {
+    "name": "ГЕНТОС",
+    "type": 2,
+    "id": "gentos"
+  },
+  {
+    "name": "Helmintosan",
+    "type": 2,
+    "id": "helmintosan"
+  },
+  {
+    "name": "Гельминтосан",
+    "type": 2,
+    "id": "helmintosan"
+  },
+  {
+    "name": "Visus",
+    "type": 2,
+    "id": "visus"
+  },
+  {
+    "name": "Визус",
+    "type": 2,
+    "id": "visus"
+  },
+  {
+    "name": "Acidum S",
+    "type": 2,
+    "id": "acidumS"
+  },
+  {
+    "name": "Ацидум С",
+    "type": 2,
+    "id": "acidumS"
+  },
+  {
+    "name": "Acogryppin",
+    "type": 2,
+    "id": "acogryppin"
+  },
+  {
+    "name": "Акогриппин",
+    "type": 2,
+    "id": "acogryppin"
+  },
+  {
+    "name": "Aconitum-plus",
+    "type": 2,
+    "id": "aconitumPlus"
+  },
+  {
+    "name": "Аконит-плюс",
+    "type": 2,
+    "id": "aconitumPlus"
+  },
+  {
+    "name": "Adam",
+    "type": 2,
+    "id": "adam"
+  },
+  {
+    "name": "Адам",
+    "type": 2,
+    "id": "adam"
+  },
+  {
+    "name": "АФАЛА",
+    "type": 2,
+    "id": "afala"
+  },
+  {
+    "name": "АФАЛАЗА",
+    "type": 2,
+    "id": "afalaza"
+  },
+  {
+    "name": "Aflubin",
+    "type": 2,
+    "id": "aflubin"
+  },
+  {
+    "name": "Афлубин",
+    "type": 2,
+    "id": "aflubin"
+  },
+  {
+    "name": "Afosar Edas",
+    "type": 2,
+    "id": "afosarEdas"
+  },
+  {
+    "name": "Афосар Эдас",
+    "type": 2,
+    "id": "afosarEdas"
+  },
+  {
+    "name": "Agri",
+    "type": 2,
+    "id": "agri"
+  },
+  {
+    "name": "Агри",
+    "type": 2,
+    "id": "agri"
+  },
+  {
+    "name": "АКОгрипдилум",
+    "type": 2,
+    "id": "akogripdilum"
+  },
+  {
+    "name": "АКОнервин",
+    "type": 2,
+    "id": "akonervin"
+  },
+  {
+    "name": "АКОседум",
+    "type": 2,
+    "id": "akosedum"
+  },
+  {
+    "name": "АКОРДИЛУМ",
+    "type": 2,
+    "id": "akordilum"
+  },
+  {
+    "name": "Allergopent-Edas",
+    "type": 2,
+    "id": "allergopentEdas"
+  },
+  {
+    "name": "Аллергопент-Эдас",
+    "type": 2,
+    "id": "allergopentEdas"
+  },
+  {
+    "name": "Aloe DN",
+    "type": 2,
+    "id": "aloeDn"
+  },
+  {
+    "name": "Алоэ ДН",
+    "type": 2,
+    "id": "aloeDn"
+  },
+  {
+    "name": "Anabar-Edas",
+    "type": 2,
+    "id": "anabarEdas"
+  },
+  {
+    "name": "Анабар-Эдас",
+    "type": 2,
+    "id": "anabarEdas"
+  },
+  {
+    "name": "Анаферон детский",
+    "type": 2,
+    "id": "anaferon"
+  },
+  {
+    "name": "Anaferon",
+    "type": 2,
+    "id": "anaferon"
+  },
+  {
+    "name": "Анаферон",
+    "type": 2,
+    "id": "anaferon"
+  },
+  {
+    "name": "Anasbarbarisan",
+    "type": 2,
+    "id": "anasbarbarisan"
+  },
+  {
+    "name": "Анасбарбарисан",
+    "type": 2,
+    "id": "anasbarbarisan"
+  },
+  {
+    "name": "Angin-Heel SD",
+    "type": 2,
+    "id": "anginHeel"
+  },
+  {
+    "name": "Ангин-Хель СД",
+    "type": 2,
+    "id": "anginHeel"
+  },
+  {
+    "name": "Apis-plus",
+    "type": 2,
+    "id": "apisPlus"
+  },
+  {
+    "name": "Апис-плюс",
+    "type": 2,
+    "id": "apisPlus"
+  },
+  {
+    "name": "Anticlimax",
+    "type": 2,
+    "id": "anticlimax"
+  },
+  {
+    "name": "Антиклимакс",
+    "type": 2,
+    "id": "anticlimax"
+  },
+  {
+    "name": "Arnaur Edas",
+    "type": 2,
+    "id": "arnaurEdas"
+  },
+  {
+    "name": "Арнаур Эдас",
+    "type": 2,
+    "id": "arnaurEdas"
+  },
+  {
+    "name": "Arnes-Edas",
+    "type": 2,
+    "id": "arnesEdas"
+  },
+  {
+    "name": "Арнес-Эдас",
+    "type": 2,
+    "id": "arnesEdas"
+  },
+  {
+    "name": "Arnica",
+    "type": 2,
+    "id": "arnica"
+  },
+  {
+    "name": "Арника",
+    "type": 2,
+    "id": "arnica"
+  },
+  {
+    "name": "Арнигель",
+    "type": 2,
+    "id": "arnigel"
+  },
+  {
+    "name": "Arthromil Edas",
+    "type": 2,
+    "id": "arthromilEdas"
+  },
+  {
+    "name": "Артромил Эдас",
+    "type": 2,
+    "id": "arthromilEdas"
+  },
+  {
+    "name": "Artrofoon",
+    "type": 2,
+    "id": "artrofoon"
+  },
+  {
+    "name": "Артрофоон",
+    "type": 2,
+    "id": "artrofoon"
+  },
+  {
+    "name": "Aurum-plus",
+    "type": 2,
+    "id": "aurumPlus"
+  },
+  {
+    "name": "Аурум-плюс",
+    "type": 2,
+    "id": "aurumPlus"
+  },
+  {
+    "name": "АВИА-МОРЕ",
+    "type": 2,
+    "id": "aviaMore"
+  },
+  {
+    "name": "Иов-малыш",
+    "type": 2,
+    "id": "berberis"
+  },
+  {
+    "name": "Berberis comp",
+    "type": 2,
+    "id": "berberis"
+  },
+  {
+    "name": "Барбарис комп.",
+    "type": 2,
+    "id": "berberis"
+  },
+  {
+    "name": "Bertalis Edas",
+    "type": 2,
+    "id": "bertalisEdas"
+  },
+  {
+    "name": "Берталис Эдас",
+    "type": 2,
+    "id": "bertalisEdas"
+  },
+  {
+    "name": "Briapis Edas",
+    "type": 2,
+    "id": "briapisEdas"
+  },
+  {
+    "name": "Бриапис Эдас",
+    "type": 2,
+    "id": "briapisEdas"
+  },
+  {
+    "name": "БРИЗАНТИН",
+    "type": 2,
+    "id": "brizantin"
+  },
+  {
+    "name": "Bronchalis-Heel",
+    "type": 2,
+    "id": "bronchalisHeel"
+  },
+  {
+    "name": "Бронхалис-Хель",
+    "type": 2,
+    "id": "bronchalisHeel"
+  },
+  {
+    "name": "Broncholat Edas",
+    "type": 2,
+    "id": "broncholatEdas"
+  },
+  {
+    "name": "Бронхолат-Эдас",
+    "type": 2,
+    "id": "broncholatEdas"
+  },
+  {
+    "name": "Bronchonal-Edas",
+    "type": 2,
+    "id": "bronchonalEdas"
+  },
+  {
+    "name": "Бронхонал Эдас",
+    "type": 2,
+    "id": "bronchonalEdas"
+  },
+  {
+    "name": "Bronchostatum",
+    "type": 2,
+    "id": "bronchostatum"
+  },
+  {
+    "name": "Бронхостат",
+    "type": 2,
+    "id": "bronchostatum"
+  },
+  {
+    "name": "Bryonia",
+    "type": 2,
+    "id": "bryonia"
+  },
+  {
+    "name": "Бриония",
+    "type": 2,
+    "id": "bryonia"
+  },
+  {
+    "name": "Bryorus Edas",
+    "type": 2,
+    "id": "bryorusEdas"
+  },
+  {
+    "name": "Бриорус Эдас",
+    "type": 2,
+    "id": "bryorusEdas"
+  },
+  {
+    "name": "Calcium compositum-GF",
+    "type": 2,
+    "id": "calciumCompositum"
+  },
+  {
+    "name": "Кальциум композитум-ГФ",
+    "type": 2,
+    "id": "calciumCompositum"
+  },
+  {
+    "name": "Calcoheel",
+    "type": 2,
+    "id": "calcoheel"
+  },
+  {
+    "name": "Калькохель",
+    "type": 2,
+    "id": "calcoheel"
+  },
+  {
+    "name": "Calengam Edas",
+    "type": 2,
+    "id": "calengamEdas"
+  },
+  {
+    "name": "Каленгам Эдас",
+    "type": 2,
+    "id": "calengamEdas"
+  },
+  {
+    "name": "Canthacit-Edas",
+    "type": 2,
+    "id": "canthacitEdas"
+  },
+  {
+    "name": "Кантацит Эдас",
+    "type": 2,
+    "id": "canthacitEdas"
+  },
+  {
+    "name": "Capsicum-plus",
+    "type": 2,
+    "id": "capsicumPlus"
+  },
+  {
+    "name": "Капсикум-плюс",
+    "type": 2,
+    "id": "capsicumPlus"
+  },
+  {
+    "name": "Capsilax-Edas",
+    "type": 2,
+    "id": "capsilaxEdas"
+  },
+  {
+    "name": "Капсилах-Эдас",
+    "type": 2,
+    "id": "capsilaxEdas"
+  },
+  {
+    "name": "Cardialgin Edas",
+    "type": 2,
+    "id": "cardialginEdas"
+  },
+  {
+    "name": "Кардиалгин Эдас",
+    "type": 2,
+    "id": "cardialginEdas"
+  },
+  {
+    "name": "CardioICA",
+    "type": 2,
+    "id": "cardioica"
+  },
+  {
+    "name": "КардиоИКА",
+    "type": 2,
+    "id": "cardioica"
+  },
+  {
+    "name": "Cardiomyl Edas",
+    "type": 2,
+    "id": "cardiomylEdas"
+  },
+  {
+    "name": "Кардиомил Эдас",
+    "type": 2,
+    "id": "cardiomylEdas"
+  },
+  {
+    "name": "Cardised-GF",
+    "type": 2,
+    "id": "cardised"
+  },
+  {
+    "name": "Кардисед-ГФ",
+    "type": 2,
+    "id": "cardised"
+  },
+  {
+    "name": "Carsat-Edas",
+    "type": 2,
+    "id": "carsatEdas"
+  },
+  {
+    "name": "Карсат Эдас",
+    "type": 2,
+    "id": "carsatEdas"
+  },
+  {
+    "name": "Cartilago",
+    "type": 2,
+    "id": "cartilago"
+  },
+  {
+    "name": "Картиляго",
+    "type": 2,
+    "id": "cartilago"
+  },
+  {
+    "name": "Cephalis-Edas",
+    "type": 2,
+    "id": "cephalisEdas"
+  },
+  {
+    "name": "Цефалис Эдас",
+    "type": 2,
+    "id": "cephalisEdas"
+  },
+  {
+    "name": "Cerebrum compositum",
+    "type": 2,
+    "id": "cerebrumCompositum"
+  },
+  {
+    "name": "Церебрум композитум",
+    "type": 2,
+    "id": "cerebrumCompositum"
+  },
+  {
+    "name": "Chamomilla",
+    "type": 2,
+    "id": "chamomilla"
+  },
+  {
+    "name": "Хамомилла",
+    "type": 2,
+    "id": "chamomilla"
+  },
+  {
+    "name": "Chelidonium",
+    "type": 2,
+    "id": "chelidonium"
+  },
+  {
+    "name": "Хелидониум",
+    "type": 2,
+    "id": "chelidonium"
+  },
+  {
+    "name": "Chistel Edas",
+    "type": 2,
+    "id": "chistelEdas"
+  },
+  {
+    "name": "Чистел Эдас",
+    "type": 2,
+    "id": "chistelEdas"
+  },
+  {
+    "name": "Choledius",
+    "type": 2,
+    "id": "choledius"
+  },
+  {
+    "name": "Холедиус",
+    "type": 2,
+    "id": "choledius"
+  },
+  {
+    "name": "Choleit-GF",
+    "type": 2,
+    "id": "choleitGf"
+  },
+  {
+    "name": "Холеит-ГФ",
+    "type": 2,
+    "id": "choleitGf"
+  },
+  {
+    "name": "Choleton Edas",
+    "type": 2,
+    "id": "choletonEdas"
+  },
+  {
+    "name": "Холетон Эдас",
+    "type": 2,
+    "id": "choletonEdas"
+  },
+  {
+    "name": "Cholistosan",
+    "type": 2,
+    "id": "cholistosan"
+  },
+  {
+    "name": "Холедохосан",
+    "type": 2,
+    "id": "cholistosan"
+  },
+  {
+    "name": "Cinnabsin",
+    "type": 2,
+    "id": "cinnabsin"
+  },
+  {
+    "name": "Циннабсин",
+    "type": 2,
+    "id": "cinnabsin"
+  },
+  {
+    "name": "ЦИСТИНОЛ АКУТ",
+    "type": 2,
+    "id": "cistinolAkut"
+  },
+  {
+    "name": "Cocculine",
+    "type": 2,
+    "id": "cocculine"
+  },
+  {
+    "name": "Коккулин",
+    "type": 2,
+    "id": "cocculine"
+  },
+  {
+    "name": "Colchicum",
+    "type": 2,
+    "id": "colchicum"
+  },
+  {
+    "name": "Колхикум",
+    "type": 2,
+    "id": "colchicum"
+  },
+  {
+    "name": "Colocint-plus",
+    "type": 2,
+    "id": "colocintPlus"
+  },
+  {
+    "name": "Колоцинт-плюс",
+    "type": 2,
+    "id": "colocintPlus"
+  },
+  {
+    "name": "Colocynthis",
+    "type": 2,
+    "id": "colocynthis"
+  },
+  {
+    "name": "Колоцинтис",
+    "type": 2,
+    "id": "colocynthis"
+  },
+  {
+    "name": "Conium-plus",
+    "type": 2,
+    "id": "coniumPlus"
+  },
+  {
+    "name": "Кониум-плюс",
+    "type": 2,
+    "id": "coniumPlus"
+  },
+  {
+    "name": "Crataegus-plus",
+    "type": 2,
+    "id": "crataegusPlus"
+  },
+  {
+    "name": "Кратегус-плюс",
+    "type": 2,
+    "id": "crataegusPlus"
+  },
+  {
+    "name": "Cuprum-pius",
+    "type": 2,
+    "id": "cuprumPlus"
+  },
+  {
+    "name": "Купрум-плюс",
+    "type": 2,
+    "id": "cuprumPlus"
+  },
+  {
+    "name": "Curdlipid",
+    "type": 2,
+    "id": "curdlipid"
+  },
+  {
+    "name": "Курдлипид",
+    "type": 2,
+    "id": "curdlipid"
+  },
+  {
+    "name": "Cutis compositum",
+    "type": 2,
+    "id": "cutisCompositum"
+  },
+  {
+    "name": "Кутис композитум",
+    "type": 2,
+    "id": "cutisCompositum"
+  },
+  {
+    "name": "Damiana-plus",
+    "type": 2,
+    "id": "damianaPlus"
+  },
+  {
+    "name": "Дамиана-плюс",
+    "type": 2,
+    "id": "damianaPlus"
+  },
+  {
+    "name": "Dantinorm Baby",
+    "type": 2,
+    "id": "dantinormBaby"
+  },
+  {
+    "name": "Дантинорм Бэби",
+    "type": 2,
+    "id": "dantinormBaby"
+  },
+  {
+    "name": "Defecol-Edas",
+    "type": 2,
+    "id": "defecolEdas"
+  },
+  {
+    "name": "Дефекол Эдас",
+    "type": 2,
+    "id": "defecolEdas"
+  },
+  {
+    "name": "Delufen",
+    "type": 2,
+    "id": "delufen"
+  },
+  {
+    "name": "Делуфен",
+    "type": 2,
+    "id": "delufen"
+  },
+  {
+    "name": "Dentokind",
+    "type": 2,
+    "id": "dentokind"
+  },
+  {
+    "name": "Дентокинд",
+    "type": 2,
+    "id": "dentokind"
+  },
+  {
+    "name": "Diab Edas",
+    "type": 2,
+    "id": "diabEdas"
+  },
+  {
+    "name": "Диаб Эдас",
+    "type": 2,
+    "id": "diabEdas"
+  },
+  {
+    "name": "Dietol-compositum",
+    "type": 2,
+    "id": "dietolCompositum"
+  },
+  {
+    "name": "Диетол-композитум",
+    "type": 2,
+    "id": "dietolCompositum"
+  },
+  {
+    "name": "Dioscorea villosa",
+    "type": 2,
+    "id": "dioscoreaVillosa"
+  },
+  {
+    "name": "Диоскореа виллоза",
+    "type": 2,
+    "id": "dioscoreaVillosa"
+  },
+  {
+    "name": "Discus compositum",
+    "type": 2,
+    "id": "discusCompositum"
+  },
+  {
+    "name": "Дискус композитум",
+    "type": 2,
+    "id": "discusCompositum"
+  },
+  {
+    "name": "Dormikind",
+    "type": 2,
+    "id": "dormikind"
+  },
+  {
+    "name": "Дормикинд",
+    "type": 2,
+    "id": "dormikind"
+  },
+  {
+    "name": "Drosera",
+    "type": 2,
+    "id": "drosera"
+  },
+  {
+    "name": "Дрозера",
+    "type": 2,
+    "id": "drosera"
+  },
+  {
+    "name": "Dulcamara",
+    "type": 2,
+    "id": "dulcamara"
+  },
+  {
+    "name": "Дулькамара",
+    "type": 2,
+    "id": "dulcamara"
+  },
+  {
+    "name": "Duodenoheel",
+    "type": 2,
+    "id": "duodenoheel"
+  },
+  {
+    "name": "Дуоденохель",
+    "type": 2,
+    "id": "duodenoheel"
+  },
+  {
+    "name": "Dysmenorm",
+    "type": 2,
+    "id": "dysmenorm"
+  },
+  {
+    "name": "Дисменорм",
+    "type": 2,
+    "id": "dysmenorm"
+  },
+  {
+    "name": "Engystol",
+    "type": 2,
+    "id": "engystol"
+  },
+  {
+    "name": "Энгистол",
+    "type": 2,
+    "id": "engystol"
+  },
+  {
+    "name": "Enterocind",
+    "type": 2,
+    "id": "enterokind"
+  },
+  {
+    "name": "Энтерокинд",
+    "type": 2,
+    "id": "enterokind"
+  },
+  {
+    "name": "Erectin",
+    "type": 2,
+    "id": "erectin"
+  },
+  {
+    "name": "Эректин",
+    "type": 2,
+    "id": "erectin"
+  },
+  {
+    "name": "Эргоферон",
+    "type": 2,
+    "id": "ergoferon"
+  },
+  {
+    "name": "ЭСБЕРИТОКС",
+    "type": 2,
+    "id": "esberitoks"
+  },
+  {
+    "name": "Feminus Edas",
+    "type": 2,
+    "id": "feminusEdas"
+  },
+  {
+    "name": "Феминус Эдас",
+    "type": 2,
+    "id": "feminusEdas"
+  },
+  {
+    "name": "Ferrum phosphoricum",
+    "type": 2,
+    "id": "ferrumPhosphoricum"
+  },
+  {
+    "name": "Феррум фосфорикум",
+    "type": 2,
+    "id": "ferrumPhosphoricum"
+  },
+  {
+    "name": "Finadon",
+    "type": 2,
+    "id": "finadon"
+  },
+  {
+    "name": "Финадон",
+    "type": 2,
+    "id": "finadon"
+  },
+  {
+    "name": "Fitangin-Edas",
+    "type": 2,
+    "id": "fitanginEdas"
+  },
+  {
+    "name": "Фитангин Эдас",
+    "type": 2,
+    "id": "fitanginEdas"
+  },
+  {
+    "name": "Flu",
+    "type": 2,
+    "id": "flu"
+  },
+  {
+    "name": "Флу",
+    "type": 2,
+    "id": "flu"
+  },
+  {
+    "name": "Fucus-plus",
+    "type": 2,
+    "id": "fucusPlus"
+  },
+  {
+    "name": "Фукус-плюс",
+    "type": 2,
+    "id": "fucusPlus"
+  },
+  {
+    "name": "Galium-Heel",
+    "type": 2,
+    "id": "galiumHeel"
+  },
+  {
+    "name": "Галиум-Хель",
+    "type": 2,
+    "id": "galiumHeel"
+  },
+  {
+    "name": "Galstena",
+    "type": 2,
+    "id": "galstena"
+  },
+  {
+    "name": "Галстена",
+    "type": 2,
+    "id": "galstena"
+  },
+  {
+    "name": "Gamorin",
+    "type": 2,
+    "id": "gamorin"
+  },
+  {
+    "name": "Гаморин",
+    "type": 2,
+    "id": "gamorin"
+  },
+  {
+    "name": "Gastricumeel",
+    "type": 2,
+    "id": "gastricumeel"
+  },
+  {
+    "name": "Гастрикумель",
+    "type": 2,
+    "id": "gastricumeel"
+  },
+  {
+    "name": "Gastricа-GF",
+    "type": 2,
+    "id": "gastricаGf"
+  },
+  {
+    "name": "Гастрика-ГФ",
+    "type": 2,
+    "id": "gastricаGf"
+  },
+  {
+    "name": "Гастроцинезин",
+    "type": 2,
+    "id": "gastrocinezin"
+  },
+  {
+    "name": "Gastronal",
+    "type": 2,
+    "id": "gastronal"
+  },
+  {
+    "name": "Гастронал",
+    "type": 2,
+    "id": "gastronal"
+  },
+  {
+    "name": "Gastropan Edas",
+    "type": 2,
+    "id": "gastropanEdas"
+  },
+  {
+    "name": "Гастропан Эдас",
+    "type": 2,
+    "id": "gastropanEdas"
+  },
+  {
+    "name": "ГЕЛЬЗЕМИН",
+    "type": 2,
+    "id": "gelsemium"
+  },
+  {
+    "name": "Gelsemium",
+    "type": 2,
+    "id": "gelsemium"
+  },
+  {
+    "name": "Гельземиум",
+    "type": 2,
+    "id": "gelsemium"
+  },
+  {
+    "name": "Gepatonorm",
+    "type": 2,
+    "id": "gepatonorm"
+  },
+  {
+    "name": "Гепатонорм",
+    "type": 2,
+    "id": "gepatonorm"
+  },
+  {
+    "name": "ГИРЕЛЬ",
+    "type": 2,
+    "id": "girel"
+  },
+  {
+    "name": "Гомеофлю",
+    "type": 2,
+    "id": "gomeoflu"
+  },
+  {
+    "name": "Гомеострес",
+    "type": 2,
+    "id": "gomeostres"
+  },
+  {
+    "name": "ГОМЕОВОКС",
+    "type": 2,
+    "id": "gomeovoks"
+  },
+  {
+    "name": "Graphitus GF",
+    "type": 2,
+    "id": "graphitusGf"
+  },
+  {
+    "name": "Графитус-ГФ",
+    "type": 2,
+    "id": "graphitusGf"
+  },
+  {
+    "name": "Gratiol Edas",
+    "type": 2,
+    "id": "gratiolEdas"
+  },
+  {
+    "name": "Грациол Эдас",
+    "type": 2,
+    "id": "gratiolEdas"
+  },
+  {
+    "name": "Hamamelis",
+    "type": 2,
+    "id": "hamamelis"
+  },
+  {
+    "name": "Гамамелис",
+    "type": 2,
+    "id": "hamamelis"
+  },
+  {
+    "name": "Helixor",
+    "type": 2,
+    "id": "helixor"
+  },
+  {
+    "name": "Хеликсор",
+    "type": 2,
+    "id": "helixor"
+  },
+  {
+    "name": "Helleborus",
+    "type": 2,
+    "id": "helleborus"
+  },
+  {
+    "name": "Морозник черный",
+    "type": 2,
+    "id": "helleborus"
+  },
+  {
+    "name": "Hemorrax",
+    "type": 2,
+    "id": "hemorrax"
+  },
+  {
+    "name": "Геморракс",
+    "type": 2,
+    "id": "hemorrax"
+  },
+  {
+    "name": "Hepa-Edas",
+    "type": 2,
+    "id": "hepaEdas"
+  },
+  {
+    "name": "Гепа-Эдас",
+    "type": 2,
+    "id": "hepaEdas"
+  },
+  {
+    "name": "Hepar",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Гепар композитум",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Hepar compositum",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Гепар сульфур",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Hepar sulfur",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Гепарсульфур",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Гепар",
+    "type": 2,
+    "id": "hepar"
+  },
+  {
+    "name": "Hepaton Edas",
+    "type": 2,
+    "id": "hepatonEdas"
+  },
+  {
+    "name": "Гепатон Эдас",
+    "type": 2,
+    "id": "hepatonEdas"
+  },
+  {
+    "name": "Hepeel",
+    "type": 2,
+    "id": "hepeel"
+  },
+  {
+    "name": "Хепель",
+    "type": 2,
+    "id": "hepeel"
+  },
+  {
+    "name": "Hevert",
+    "type": 2,
+    "id": "hevertKalmvalera"
+  },
+  {
+    "name": "Хеверт",
+    "type": 2,
+    "id": "hevertKalmvalera"
+  },
+  {
+    "name": "Hormeel SN",
+    "type": 2,
+    "id": "hormeelSn"
+  },
+  {
+    "name": "Гормель СН",
+    "type": 2,
+    "id": "hormeelSn"
+  },
+  {
+    "name": "Husteel",
+    "type": 2,
+    "id": "husteel"
+  },
+  {
+    "name": "Густель",
+    "type": 2,
+    "id": "husteel"
+  },
+  {
+    "name": "Ignatia amara",
+    "type": 2,
+    "id": "ignatiaAmara"
+  },
+  {
+    "name": "Игнатиа амара",
+    "type": 2,
+    "id": "ignatiaAmara"
+  },
+  {
+    "name": "Immukor",
+    "type": 2,
+    "id": "immukor"
+  },
+  {
+    "name": "Иммукор",
+    "type": 2,
+    "id": "immukor"
+  },
+  {
+    "name": "Immunokind",
+    "type": 2,
+    "id": "immunokind"
+  },
+  {
+    "name": "Иммунокинд",
+    "type": 2,
+    "id": "immunokind"
+  },
+  {
+    "name": "Avena-plus",
+    "type": 2,
+    "id": "immusan"
+  },
+  {
+    "name": "Иммусан",
+    "type": 2,
+    "id": "immusan"
+  },
+  {
+    "name": "ИМПАЗА",
+    "type": 2,
+    "id": "impaza"
+  },
+  {
+    "name": "Influcid",
+    "type": 2,
+    "id": "influcid"
+  },
+  {
+    "name": "Инфлюцид",
+    "type": 2,
+    "id": "influcid"
+  },
+  {
+    "name": "Inflyuostim",
+    "type": 2,
+    "id": "inflyuostim"
+  },
+  {
+    "name": "Инфлюостим",
+    "type": 2,
+    "id": "inflyuostim"
+  },
+  {
+    "name": "Insomnia",
+    "type": 2,
+    "id": "insomnia"
+  },
+  {
+    "name": "Инсомниа",
+    "type": 2,
+    "id": "insomnia"
+  },
+  {
+    "name": "Iov-Venum",
+    "type": 2,
+    "id": "iovVenum"
+  },
+  {
+    "name": "Иов-венум",
+    "type": 2,
+    "id": "iovVenum"
+  },
+  {
+    "name": "Ipeca",
+    "type": 2,
+    "id": "ipeca"
+  },
+  {
+    "name": "Ипека",
+    "type": 2,
+    "id": "ipeca"
+  },
+  {
+    "name": "Iricar",
+    "type": 2,
+    "id": "iricar"
+  },
+  {
+    "name": "Ирикар",
+    "type": 2,
+    "id": "iricar"
+  },
+  {
+    "name": "Iris-plus",
+    "type": 2,
+    "id": "irisPlus"
+  },
+  {
+    "name": "Ирис-плюс",
+    "type": 2,
+    "id": "irisPlus"
+  },
+  {
+    "name": "Kaliris Edas",
+    "type": 2,
+    "id": "kalirisEdas"
+  },
+  {
+    "name": "Калирис Эдас",
+    "type": 2,
+    "id": "kalirisEdas"
+  },
+  {
+    "name": "Kalium bichromicum",
+    "type": 2,
+    "id": "kaliumBichromicum"
+  },
+  {
+    "name": "Калиум бихромикум",
+    "type": 2,
+    "id": "kaliumBichromicum"
+  },
+  {
+    "name": "Kalium iodatum",
+    "type": 2,
+    "id": "kaliumIodatum"
+  },
+  {
+    "name": "Калиум йодатум",
+    "type": 2,
+    "id": "kaliumIodatum"
+  },
+  {
+    "name": "Kalium muriaticum",
+    "type": 2,
+    "id": "kaliumMuriaticum"
+  },
+  {
+    "name": "Калиум муриатикум",
+    "type": 2,
+    "id": "kaliumMuriaticum"
+  },
+  {
+    "name": "Kindinorm",
+    "type": 2,
+    "id": "kindinorm"
+  },
+  {
+    "name": "Киндинорм",
+    "type": 2,
+    "id": "kindinorm"
+  },
+  {
+    "name": "Klimaksan",
+    "type": 2,
+    "id": "klimaksan"
+  },
+  {
+    "name": "Климаксан",
+    "type": 2,
+    "id": "klimaksan"
+  },
+  {
+    "name": "Klimakt-Heel",
+    "type": 2,
+    "id": "klimaktHeel"
+  },
+  {
+    "name": "Климакт-Хель",
+    "type": 2,
+    "id": "klimaktHeel"
+  },
+  {
+    "name": "КЛИМАКТОПЛАН К",
+    "type": 2,
+    "id": "klimaktoplanK"
+  },
+  {
+    "name": "Klimaktoplan",
+    "type": 2,
+    "id": "klimaktoplan"
+  },
+  {
+    "name": "Климактоплан",
+    "type": 2,
+    "id": "klimaktoplan"
+  },
+  {
+    "name": "КОЛОФОРТ",
+    "type": 2,
+    "id": "kolofort"
+  },
+  {
+    "name": "КОРИЗАЛИЯ",
+    "type": 2,
+    "id": "korizaliya"
+  },
+  {
+    "name": "КРАЛОНИН",
+    "type": 2,
+    "id": "kralonin"
+  },
+  {
+    "name": "L-Flu",
+    "type": 2,
+    "id": "lFlu"
+  },
+  {
+    "name": "Л-Флю",
+    "type": 2,
+    "id": "lFlu"
+  },
+  {
+    "name": "L-Mag",
+    "type": 2,
+    "id": "lMag"
+  },
+  {
+    "name": "Л-Маг",
+    "type": 2,
+    "id": "lMag"
+  },
+  {
+    "name": "L-Veine",
+    "type": 2,
+    "id": "lVeine"
+  },
+  {
+    "name": "Л-Вен",
+    "type": 2,
+    "id": "lVeine"
+  },
+  {
+    "name": "L52 Lehning",
+    "type": 2,
+    "id": "l52Lehning"
+  },
+  {
+    "name": "Л52 Ленинг",
+    "type": 2,
+    "id": "l52Lehning"
+  },
+  {
+    "name": "Lachesis",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Лахезис мутус",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Lachesis mutus",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Лахезис-плюс",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Lachesis-plus",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Лахезис",
+    "type": 2,
+    "id": "lachesis"
+  },
+  {
+    "name": "Lacver Edas",
+    "type": 2,
+    "id": "lacverEdas"
+  },
+  {
+    "name": "Лаквер Эдас",
+    "type": 2,
+    "id": "lacverEdas"
+  },
+  {
+    "name": "Lambliosan",
+    "type": 2,
+    "id": "lambliosan"
+  },
+  {
+    "name": "Лямблиосан",
+    "type": 2,
+    "id": "lambliosan"
+  },
+  {
+    "name": "Larinol Edas",
+    "type": 2,
+    "id": "larinolEdas"
+  },
+  {
+    "name": "Ларинол Эдас",
+    "type": 2,
+    "id": "larinolEdas"
+  },
+  {
+    "name": "Ledum",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ледум ДН",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ledum DN",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ледум палюстре",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ledum palustre",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ледум-Эдас",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ledum-Edas",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Ледум",
+    "type": 2,
+    "id": "ledum"
+  },
+  {
+    "name": "Leptandra compositum",
+    "type": 2,
+    "id": "leptandraCompositum"
+  },
+  {
+    "name": "Лептандра композитум",
+    "type": 2,
+    "id": "leptandraCompositum"
+  },
+  {
+    "name": "Лиана большая",
+    "type": 2,
+    "id": "lianaBolshaya"
+  },
+  {
+    "name": "ЛИМФОМИОЗОТ",
+    "type": 2,
+    "id": "limfomiozot"
+  },
+  {
+    "name": "Lobelia Edas",
+    "type": 2,
+    "id": "lobeliaEdas"
+  },
+  {
+    "name": "Лобелия Эдас",
+    "type": 2,
+    "id": "lobeliaEdas"
+  },
+  {
+    "name": "Loma Lux Acnemol",
+    "type": 2,
+    "id": "lomaLuxAcnemol"
+  },
+  {
+    "name": "Лома Люкс Акнемол",
+    "type": 2,
+    "id": "lomaLuxAcnemol"
+  },
+  {
+    "name": "Loma Lux Psoriasis",
+    "type": 2,
+    "id": "lomaLuxPsoriasis"
+  },
+  {
+    "name": "Лома Псориаз",
+    "type": 2,
+    "id": "lomaLuxPsoriasis"
+  },
+  {
+    "name": "Loma Psoriasis",
+    "type": 2,
+    "id": "lomaLuxPsoriasis"
+  },
+  {
+    "name": "Лома Люкс Псориасис",
+    "type": 2,
+    "id": "lomaLuxPsoriasis"
+  },
+  {
+    "name": "ЛОМА ЛЮКС ПСОРИАЗ",
+    "type": 2,
+    "id": "lomaLyuksPsoriaz"
+  },
+  {
+    "name": "Luffeel",
+    "type": 2,
+    "id": "luffeel"
+  },
+  {
+    "name": "Люффель",
+    "type": 2,
+    "id": "luffeel"
+  },
+  {
+    "name": "Magnesia phosphorica",
+    "type": 2,
+    "id": "magnesiaPhosphorica"
+  },
+  {
+    "name": "Магнезиа фосфорика",
+    "type": 2,
+    "id": "magnesiaPhosphorica"
+  },
+  {
+    "name": "Mammosan",
+    "type": 2,
+    "id": "mammosan"
+  },
+  {
+    "name": "Маммосан",
+    "type": 2,
+    "id": "mammosan"
+  },
+  {
+    "name": "Mastiol Edas",
+    "type": 2,
+    "id": "mastiolEdas"
+  },
+  {
+    "name": "Мастиол Эдас",
+    "type": 2,
+    "id": "mastiolEdas"
+  },
+  {
+    "name": "МАСТОДИНОН",
+    "type": 2,
+    "id": "mastodinon"
+  },
+  {
+    "name": "Mastodynon",
+    "type": 2,
+    "id": "mastodynon"
+  },
+  {
+    "name": "Мастодинон",
+    "type": 2,
+    "id": "mastodynon"
+  },
+  {
+    "name": "Mastopan",
+    "type": 2,
+    "id": "mastopan"
+  },
+  {
+    "name": "Мастопан",
+    "type": 2,
+    "id": "mastopan"
+  },
+  {
+    "name": "Mastopol",
+    "type": 2,
+    "id": "mastopol"
+  },
+  {
+    "name": "Мастопол",
+    "type": 2,
+    "id": "mastopol"
+  },
+  {
+    "name": "Matricaria DN",
+    "type": 2,
+    "id": "matricaria"
+  },
+  {
+    "name": "Матрикария ДН",
+    "type": 2,
+    "id": "matricaria"
+  },
+  {
+    "name": "Meditonsin",
+    "type": 2,
+    "id": "meditonsin"
+  },
+  {
+    "name": "Медитонзин",
+    "type": 2,
+    "id": "meditonsin"
+  },
+  {
+    "name": "Memoria",
+    "type": 2,
+    "id": "memoria"
+  },
+  {
+    "name": "Мемория",
+    "type": 2,
+    "id": "memoria"
+  },
+  {
+    "name": "Menalgin",
+    "type": 2,
+    "id": "menalgin"
+  },
+  {
+    "name": "Менальгин",
+    "type": 2,
+    "id": "menalgin"
+  },
+  {
+    "name": "Menolet Edas",
+    "type": 2,
+    "id": "menoletEdas"
+  },
+  {
+    "name": "Менолет Эдас",
+    "type": 2,
+    "id": "menoletEdas"
+  },
+  {
+    "name": "Mercure EDAS",
+    "type": 2,
+    "id": "mercureEdas"
+  },
+  {
+    "name": "Меркур Эдас",
+    "type": 2,
+    "id": "mercureEdas"
+  },
+  {
+    "name": "Mercurius solubilis",
+    "type": 2,
+    "id": "mercuriusSolubilis"
+  },
+  {
+    "name": "Меркуриус солюбилис",
+    "type": 2,
+    "id": "mercuriusSolubilis"
+  },
+  {
+    "name": "Mirticam",
+    "type": 2,
+    "id": "mirticam"
+  },
+  {
+    "name": "Миртикам",
+    "type": 2,
+    "id": "mirticam"
+  },
+  {
+    "name": "Млекоин",
+    "type": 2,
+    "id": "mlekoin"
+  },
+  {
+    "name": "Momordica compositum",
+    "type": 2,
+    "id": "momordicaCompositum"
+  },
+  {
+    "name": "Момордика композитум",
+    "type": 2,
+    "id": "momordicaCompositum"
+  },
+  {
+    "name": "Motchekam",
+    "type": 2,
+    "id": "motchekam"
+  },
+  {
+    "name": "Мочекам",
+    "type": 2,
+    "id": "motchekam"
+  },
+  {
+    "name": "Mucosa compositum",
+    "type": 2,
+    "id": "mucosaCompositum"
+  },
+  {
+    "name": "Мукоза композитум",
+    "type": 2,
+    "id": "mucosaCompositum"
+  },
+  {
+    "name": "Myal Edas",
+    "type": 2,
+    "id": "myalEdas"
+  },
+  {
+    "name": "Миал Эдас",
+    "type": 2,
+    "id": "myalEdas"
+  },
+  {
+    "name": "Narcosan",
+    "type": 2,
+    "id": "narcosan"
+  },
+  {
+    "name": "Наркосан",
+    "type": 2,
+    "id": "narcosan"
+  },
+  {
+    "name": "Nasisan",
+    "type": 2,
+    "id": "nasisan"
+  },
+  {
+    "name": "Назисан",
+    "type": 2,
+    "id": "nasisan"
+  },
+  {
+    "name": "Natrum muriaticum",
+    "type": 2,
+    "id": "natrumMuriaticum"
+  },
+  {
+    "name": "Натрум муриатикум",
+    "type": 2,
+    "id": "natrumMuriaticum"
+  },
+  {
+    "name": "Naturcoksinum",
+    "type": 2,
+    "id": "naturcoksinum"
+  },
+  {
+    "name": "Натуркоксинум",
+    "type": 2,
+    "id": "naturcoksinum"
+  },
+  {
+    "name": "Nefrolit",
+    "type": 2,
+    "id": "nefrolit"
+  },
+  {
+    "name": "Нефролит",
+    "type": 2,
+    "id": "nefrolit"
+  },
+  {
+    "name": "Neoclimsal",
+    "type": 2,
+    "id": "neoclimsal"
+  },
+  {
+    "name": "Неоклимсал",
+    "type": 2,
+    "id": "neoclimsal"
+  },
+  {
+    "name": "Nephronal Edas",
+    "type": 2,
+    "id": "nephronalEdas"
+  },
+  {
+    "name": "Нефронал Эдас",
+    "type": 2,
+    "id": "nephronalEdas"
+  },
+  {
+    "name": "Nervoheel",
+    "type": 2,
+    "id": "nervoheel"
+  },
+  {
+    "name": "Нервохель",
+    "type": 2,
+    "id": "nervoheel"
+  },
+  {
+    "name": "Nevrosed",
+    "type": 2,
+    "id": "nevrosed"
+  },
+  {
+    "name": "Невросед",
+    "type": 2,
+    "id": "nevrosed"
+  },
+  {
+    "name": "NeyLing-Tropfen",
+    "type": 2,
+    "id": "neylingTropfen"
+  },
+  {
+    "name": "НайЛинг-Тропфен",
+    "type": 2,
+    "id": "neylingTropfen"
+  },
+  {
+    "name": "Nicostat Edas",
+    "type": 2,
+    "id": "nicostatEdas"
+  },
+  {
+    "name": "Никостат Эдас",
+    "type": 2,
+    "id": "nicostatEdas"
+  },
+  {
+    "name": "Nicosten Edas",
+    "type": 2,
+    "id": "nicostenEdas"
+  },
+  {
+    "name": "Никостен Эдас",
+    "type": 2,
+    "id": "nicostenEdas"
+  },
+  {
+    "name": "Никомель",
+    "type": 2,
+    "id": "nikomel"
+  },
+  {
+    "name": "Nirvana Edas",
+    "type": 2,
+    "id": "nirvanaEdas"
+  },
+  {
+    "name": "Нирвана Эдас",
+    "type": 2,
+    "id": "nirvanaEdas"
+  },
+  {
+    "name": "Normagast",
+    "type": 2,
+    "id": "normagast"
+  },
+  {
+    "name": "Нормагаст",
+    "type": 2,
+    "id": "normagast"
+  },
+  {
+    "name": "Notta",
+    "type": 2,
+    "id": "notta"
+  },
+  {
+    "name": "Нотта",
+    "type": 2,
+    "id": "notta"
+  },
+  {
+    "name": "Nux vom-plus",
+    "type": 2,
+    "id": "nuxVomPlus"
+  },
+  {
+    "name": "Нукс Вом-плюс",
+    "type": 2,
+    "id": "nuxVomPlus"
+  },
+  {
+    "name": "Nux vomica",
+    "type": 2,
+    "id": "nuxVomica"
+  },
+  {
+    "name": "Нукс вомика",
+    "type": 2,
+    "id": "nuxVomica"
+  },
+  {
+    "name": "Oculoheel",
+    "type": 2,
+    "id": "oculoheel"
+  },
+  {
+    "name": "Окулохель",
+    "type": 2,
+    "id": "oculoheel"
+  },
+  {
+    "name": "Oculus Edas",
+    "type": 2,
+    "id": "oculusEdas"
+  },
+  {
+    "name": "Окулюс Эдас",
+    "type": 2,
+    "id": "oculusEdas"
+  },
+  {
+    "name": "Ointment Flemings",
+    "type": 2,
+    "id": "ointmentFlemings"
+  },
+  {
+    "name": "Мазь Флеминга",
+    "type": 2,
+    "id": "ointmentFlemings"
+  },
+  {
+    "name": "Opistorhosan",
+    "type": 2,
+    "id": "opistorhosan"
+  },
+  {
+    "name": "Описторхосан",
+    "type": 2,
+    "id": "opistorhosan"
+  },
+  {
+    "name": "Оциллококцинум",
+    "type": 2,
+    "id": "oscillokokcinum"
+  },
+  {
+    "name": "ОСЦИЛЛОКОКЦИНУМ",
+    "type": 2,
+    "id": "oscillokokcinum"
+  },
+  {
+    "name": "Osteoheel S",
+    "type": 2,
+    "id": "osteoheel"
+  },
+  {
+    "name": "Остеохель С",
+    "type": 2,
+    "id": "osteoheel"
+  },
+  {
+    "name": "Ovarium compositum",
+    "type": 2,
+    "id": "ovariumCompositum"
+  },
+  {
+    "name": "Овариум композитум",
+    "type": 2,
+    "id": "ovariumCompositum"
+  },
+  {
+    "name": "Oxalur Edas",
+    "type": 2,
+    "id": "oxalurEdas"
+  },
+  {
+    "name": "Оксалур Эдас",
+    "type": 2,
+    "id": "oxalurEdas"
+  },
+  {
+    "name": "Pacreacam",
+    "type": 2,
+    "id": "pacreacam"
+  },
+  {
+    "name": "Пакреакам",
+    "type": 2,
+    "id": "pacreacam"
+  },
+  {
+    "name": "Parodol Edas",
+    "type": 2,
+    "id": "parodolEdas"
+  },
+  {
+    "name": "Пародол Эдас",
+    "type": 2,
+    "id": "parodolEdas"
+  },
+  {
+    "name": "Passambra Edas",
+    "type": 2,
+    "id": "passambraEdas"
+  },
+  {
+    "name": "Пассамбра Эдас",
+    "type": 2,
+    "id": "passambraEdas"
+  },
+  {
+    "name": "Passidorm",
+    "type": 2,
+    "id": "passidorm"
+  },
+  {
+    "name": "Пассидорм",
+    "type": 2,
+    "id": "passidorm"
+  },
+  {
+    "name": "Passiflora Edas",
+    "type": 2,
+    "id": "passifloraEdas"
+  },
+  {
+    "name": "Пассифлора Эдас",
+    "type": 2,
+    "id": "passifloraEdas"
+  },
+  {
+    "name": "Pharyngol Edas",
+    "type": 2,
+    "id": "pharyngolEdas"
+  },
+  {
+    "name": "Фарингол Эдас",
+    "type": 2,
+    "id": "pharyngolEdas"
+  },
+  {
+    "name": "Pharyngomed",
+    "type": 2,
+    "id": "pharyngomed"
+  },
+  {
+    "name": "Фарингомед",
+    "type": 2,
+    "id": "pharyngomed"
+  },
+  {
+    "name": "Phtizion",
+    "type": 2,
+    "id": "phtizion"
+  },
+  {
+    "name": "Фтизион",
+    "type": 2,
+    "id": "phtizion"
+  },
+  {
+    "name": "Placenta compositum",
+    "type": 2,
+    "id": "placentaCompositum"
+  },
+  {
+    "name": "Плацента композитум",
+    "type": 2,
+    "id": "placentaCompositum"
+  },
+  {
+    "name": "Populus compositum SR",
+    "type": 2,
+    "id": "populusCompositumSr"
+  },
+  {
+    "name": "Популюс композитум СР",
+    "type": 2,
+    "id": "populusCompositumSr"
+  },
+  {
+    "name": "Poumon histamine",
+    "type": 2,
+    "id": "poumonHistamine"
+  },
+  {
+    "name": "Пумон гистамине",
+    "type": 2,
+    "id": "poumonHistamine"
+  },
+  {
+    "name": "Propolan Edas",
+    "type": 2,
+    "id": "propolanEdas"
+  },
+  {
+    "name": "Прополан Эдас",
+    "type": 2,
+    "id": "propolanEdas"
+  },
+  {
+    "name": "Propolis",
+    "type": 2,
+    "id": "propolis"
+  },
+  {
+    "name": "Прополис",
+    "type": 2,
+    "id": "propolis"
+  },
+  {
+    "name": "Prostasanum",
+    "type": 2,
+    "id": "prostasanum"
+  },
+  {
+    "name": "Простасан",
+    "type": 2,
+    "id": "prostasanum"
+  },
+  {
+    "name": "Prostatosan",
+    "type": 2,
+    "id": "prostatosan"
+  },
+  {
+    "name": "Простатосан",
+    "type": 2,
+    "id": "prostatosan"
+  },
+  {
+    "name": "Psoralum",
+    "type": 2,
+    "id": "psoralum"
+  },
+  {
+    "name": "Псоралюм",
+    "type": 2,
+    "id": "psoralum"
+  },
+  {
+    "name": "Psoriaten",
+    "type": 2,
+    "id": "psoriaten"
+  },
+  {
+    "name": "Псориатен",
+    "type": 2,
+    "id": "psoriaten"
+  },
+  {
+    "name": "Psorilom",
+    "type": 2,
+    "id": "psorilom"
+  },
+  {
+    "name": "Псорилом",
+    "type": 2,
+    "id": "psorilom"
+  },
+  {
+    "name": "Psorinoheel",
+    "type": 2,
+    "id": "psorinoheel"
+  },
+  {
+    "name": "Псоринохель",
+    "type": 2,
+    "id": "psorinoheel"
+  },
+  {
+    "name": "Psorinum",
+    "type": 2,
+    "id": "psorinum"
+  },
+  {
+    "name": "Псоринум",
+    "type": 2,
+    "id": "psorinum"
+  },
+  {
+    "name": "Psorizerum",
+    "type": 2,
+    "id": "psorizerum"
+  },
+  {
+    "name": "Псоризер",
+    "type": 2,
+    "id": "psorizerum"
+  },
+  {
+    "name": "Pulsatilla",
+    "type": 2,
+    "id": "pulsatilla"
+  },
+  {
+    "name": "Пульсатилла",
+    "type": 2,
+    "id": "pulsatilla"
+  },
+  {
+    "name": "Pulsen Edas",
+    "type": 2,
+    "id": "pulsenEdas"
+  },
+  {
+    "name": "Пульсэн Эдас",
+    "type": 2,
+    "id": "pulsenEdas"
+  },
+  {
+    "name": "Pumpan",
+    "type": 2,
+    "id": "pumpan"
+  },
+  {
+    "name": "Пумпан",
+    "type": 2,
+    "id": "pumpan"
+  },
+  {
+    "name": "Pyrogenium",
+    "type": 2,
+    "id": "pyrogenium"
+  },
+  {
+    "name": "Пирогениум",
+    "type": 2,
+    "id": "pyrogenium"
+  },
+  {
+    "name": "Quercus Edas",
+    "type": 2,
+    "id": "quercusEdas"
+  },
+  {
+    "name": "Кверкус Эдас",
+    "type": 2,
+    "id": "quercusEdas"
+  },
+  {
+    "name": "Radiculosan",
+    "type": 2,
+    "id": "radiculosan"
+  },
+  {
+    "name": "Радикулосан",
+    "type": 2,
+    "id": "radiculosan"
+  },
+  {
+    "name": "Ranunculus bulbosus",
+    "type": 2,
+    "id": "ranunculusBulbosus"
+  },
+  {
+    "name": "Ранункулюс бульбозус",
+    "type": 2,
+    "id": "ranunculusBulbosus"
+  },
+  {
+    "name": "Remens",
+    "type": 2,
+    "id": "remens"
+  },
+  {
+    "name": "Ременс",
+    "type": 2,
+    "id": "remens"
+  },
+  {
+    "name": "Reneel",
+    "type": 2,
+    "id": "reneel"
+  },
+  {
+    "name": "Ренель",
+    "type": 2,
+    "id": "reneel"
+  },
+  {
+    "name": "РЕНГАЛИН",
+    "type": 2,
+    "id": "rengalin"
+  },
+  {
+    "name": "Repisan",
+    "type": 2,
+    "id": "repisan"
+  },
+  {
+    "name": "Реписан",
+    "type": 2,
+    "id": "repisan"
+  },
+  {
+    "name": "Rescue Remedy (Bach)",
+    "type": 2,
+    "id": "rescueRemedy"
+  },
+  {
+    "name": "Рескью Ремеди (Бах)",
+    "type": 2,
+    "id": "rescueRemedy"
+  },
+  {
+    "name": "Rewma-Gel",
+    "type": 2,
+    "id": "rewmaGel"
+  },
+  {
+    "name": "Ревма-гель",
+    "type": 2,
+    "id": "rewmaGel"
+  },
+  {
+    "name": "Rhinital",
+    "type": 2,
+    "id": "rhinital"
+  },
+  {
+    "name": "Ринитал",
+    "type": 2,
+    "id": "rhinital"
+  },
+  {
+    "name": "Rhus toxicodendron",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Рус-ГФ",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Rhus-GF",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Рус-плюс",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Rhus-plus",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Рус токсикодендрон",
+    "type": 2,
+    "id": "rhusToxicodendron"
+  },
+  {
+    "name": "Rhusbricarum",
+    "type": 2,
+    "id": "rhusbricarum"
+  },
+  {
+    "name": "Русбрикар",
+    "type": 2,
+    "id": "rhusbricarum"
+  },
+  {
+    "name": "Rinitol Edas",
+    "type": 2,
+    "id": "rinitolEdas"
+  },
+  {
+    "name": "Ринитол Эдас",
+    "type": 2,
+    "id": "rinitolEdas"
+  },
+  {
+    "name": "Rus DN",
+    "type": 2,
+    "id": "rusDn"
+  },
+  {
+    "name": "Рус ДН",
+    "type": 2,
+    "id": "rusDn"
+  },
+  {
+    "name": "Ruta graveolens",
+    "type": 2,
+    "id": "rutaGraveolens"
+  },
+  {
+    "name": "Рута пахучая",
+    "type": 2,
+    "id": "rutaGraveolens"
+  },
+  {
+    "name": "Рута-плюс",
+    "type": 2,
+    "id": "rutaGraveolens"
+  },
+  {
+    "name": "Ruta-plus",
+    "type": 2,
+    "id": "rutaGraveolens"
+  },
+  {
+    "name": "Рута гравеоленс",
+    "type": 2,
+    "id": "rutaGraveolens"
+  },
+  {
+    "name": "Sabal-Homaccord",
+    "type": 2,
+    "id": "sabalHomaccord"
+  },
+  {
+    "name": "Сабаль-Гомаккорд",
+    "type": 2,
+    "id": "sabalHomaccord"
+  },
+  {
+    "name": "Sabal-prostata",
+    "type": 2,
+    "id": "sabalProstata"
+  },
+  {
+    "name": "Сабаль-простата",
+    "type": 2,
+    "id": "sabalProstata"
+  },
+  {
+    "name": "Sagrippin homeopatic",
+    "type": 2,
+    "id": "sagrippinHomeopatic"
+  },
+  {
+    "name": "Сагриппин гомеопатический",
+    "type": 2,
+    "id": "sagrippinHomeopatic"
+  },
+  {
+    "name": "Sambucus nigra",
+    "type": 2,
+    "id": "sambucusNigra"
+  },
+  {
+    "name": "Самбукус-плюс",
+    "type": 2,
+    "id": "sambucusNigra"
+  },
+  {
+    "name": "Sambucus-plus",
+    "type": 2,
+    "id": "sambucusNigra"
+  },
+  {
+    "name": "Самбукус нигра",
+    "type": 2,
+    "id": "sambucusNigra"
+  },
+  {
+    "name": "Sandra",
+    "type": 2,
+    "id": "sandra"
+  },
+  {
+    "name": "Сандра",
+    "type": 2,
+    "id": "sandra"
+  },
+  {
+    "name": "Sanoderm Edas",
+    "type": 2,
+    "id": "sanodermEdas"
+  },
+  {
+    "name": "Санодерм Эдас",
+    "type": 2,
+    "id": "sanodermEdas"
+  },
+  {
+    "name": "Sclerosan",
+    "type": 2,
+    "id": "sclerosan"
+  },
+  {
+    "name": "Склеросан",
+    "type": 2,
+    "id": "sclerosan"
+  },
+  {
+    "name": "СЕДАТИФ ПС",
+    "type": 2,
+    "id": "sedatifPs"
+  },
+  {
+    "name": "Selen Edas",
+    "type": 2,
+    "id": "selenEdas"
+  },
+  {
+    "name": "Селен Эдас",
+    "type": 2,
+    "id": "selenEdas"
+  },
+  {
+    "name": "Selencinum",
+    "type": 2,
+    "id": "selencinum"
+  },
+  {
+    "name": "Селенцин",
+    "type": 2,
+    "id": "selencinum"
+  },
+  {
+    "name": "Silicea",
+    "type": 2,
+    "id": "silicea"
+  },
+  {
+    "name": "Силицеа",
+    "type": 2,
+    "id": "silicea"
+  },
+  {
+    "name": "Solvencium",
+    "type": 2,
+    "id": "solvencium"
+  },
+  {
+    "name": "Сольвенций",
+    "type": 2,
+    "id": "solvencium"
+  },
+  {
+    "name": "Somnogen",
+    "type": 2,
+    "id": "somnogen"
+  },
+  {
+    "name": "Сомноген",
+    "type": 2,
+    "id": "somnogen"
+  },
+  {
+    "name": "Sonit",
+    "type": 2,
+    "id": "sonit"
+  },
+  {
+    "name": "Сонит",
+    "type": 2,
+    "id": "sonit"
+  },
+  {
+    "name": "Spascupreel",
+    "type": 2,
+    "id": "spascupreel"
+  },
+  {
+    "name": "Спаскупрель",
+    "type": 2,
+    "id": "spascupreel"
+  },
+  {
+    "name": "Spigelon",
+    "type": 2,
+    "id": "spigelon"
+  },
+  {
+    "name": "Спигелон",
+    "type": 2,
+    "id": "spigelon"
+  },
+  {
+    "name": "Spongia tosta",
+    "type": 2,
+    "id": "spongiaTosta"
+  },
+  {
+    "name": "Спонгиа тоста",
+    "type": 2,
+    "id": "spongiaTosta"
+  },
+  {
+    "name": "Staphysagria",
+    "type": 2,
+    "id": "staphysagria"
+  },
+  {
+    "name": "Стафизагриа",
+    "type": 2,
+    "id": "staphysagria"
+  },
+  {
+    "name": "Stenalgil",
+    "type": 2,
+    "id": "stenalgil"
+  },
+  {
+    "name": "Стеналгил",
+    "type": 2,
+    "id": "stenalgil"
+  },
+  {
+    "name": "Sticta pulmonaria",
+    "type": 2,
+    "id": "stictaPulmonaria"
+  },
+  {
+    "name": "Стикта пульмонариа",
+    "type": 2,
+    "id": "stictaPulmonaria"
+  },
+  {
+    "name": "Стодаль",
+    "type": 2,
+    "id": "stodal"
+  },
+  {
+    "name": "Stomatin Edas",
+    "type": 2,
+    "id": "stomatinEdas"
+  },
+  {
+    "name": "Стоматин Эдас",
+    "type": 2,
+    "id": "stomatinEdas"
+  },
+  {
+    "name": "Stramonium",
+    "type": 2,
+    "id": "stramonium"
+  },
+  {
+    "name": "Страмониум",
+    "type": 2,
+    "id": "stramonium"
+  },
+  {
+    "name": "Stress-gran",
+    "type": 2,
+    "id": "stressGran"
+  },
+  {
+    "name": "Стресс-гран",
+    "type": 2,
+    "id": "stressGran"
+  },
+  {
+    "name": "Strumeel",
+    "type": 2,
+    "id": "strumeel"
+  },
+  {
+    "name": "Струмель",
+    "type": 2,
+    "id": "strumeel"
+  },
+  {
+    "name": "Symphytum officinale",
+    "type": 2,
+    "id": "symphytumOfficinale"
+  },
+  {
+    "name": "Симфитум оффицинале",
+    "type": 2,
+    "id": "symphytumOfficinale"
+  },
+  {
+    "name": "Tartephedreel",
+    "type": 2,
+    "id": "tartephedreel"
+  },
+  {
+    "name": "Тартефедрель",
+    "type": 2,
+    "id": "tartephedreel"
+  },
+  {
+    "name": "Tenoten",
+    "type": 2,
+    "id": "tenoten"
+  },
+  {
+    "name": "Тенотен",
+    "type": 2,
+    "id": "tenoten"
+  },
+  {
+    "name": "Testis compositum",
+    "type": 2,
+    "id": "testisCompositum"
+  },
+  {
+    "name": "Тестис композитум",
+    "type": 2,
+    "id": "testisCompositum"
+  },
+  {
+    "name": "Thuja",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Туя Эдас",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Tuja Edas",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Туя оксиденталис",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Thuya occidentalis",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Туя",
+    "type": 2,
+    "id": "thuja"
+  },
+  {
+    "name": "Tonginal",
+    "type": 2,
+    "id": "tonginal"
+  },
+  {
+    "name": "Тонгинал",
+    "type": 2,
+    "id": "tonginal"
+  },
+  {
+    "name": "Tonsan-akut",
+    "type": 2,
+    "id": "tonsanAkut"
+  },
+  {
+    "name": "Тонзан-акут",
+    "type": 2,
+    "id": "tonsanAkut"
+  },
+  {
+    "name": "Tonsilla compositum",
+    "type": 2,
+    "id": "tonsillaCompositum"
+  },
+  {
+    "name": "Тонзилла композитум",
+    "type": 2,
+    "id": "tonsillaCompositum"
+  },
+  {
+    "name": "Tonsilotren",
+    "type": 2,
+    "id": "tonsilotren"
+  },
+  {
+    "name": "Тонзилотрен",
+    "type": 2,
+    "id": "tonsilotren"
+  },
+  {
+    "name": "Tonsipret",
+    "type": 2,
+    "id": "tonsipret"
+  },
+  {
+    "name": "Тонзипрет",
+    "type": 2,
+    "id": "tonsipret"
+  },
+  {
+    "name": "Tonzilar",
+    "type": 2,
+    "id": "tonzilar"
+  },
+  {
+    "name": "Тонзилар",
+    "type": 2,
+    "id": "tonzilar"
+  },
+  {
+    "name": "Tonzillin Edas",
+    "type": 2,
+    "id": "tonzillinEdas"
+  },
+  {
+    "name": "Тонзиллин Эдас",
+    "type": 2,
+    "id": "tonzillinEdas"
+  },
+  {
+    "name": "ТОНЗИЛОТРЕН",
+    "type": 2,
+    "id": "tonzilotren"
+  },
+  {
+    "name": "ТОНЗИПРЕТ",
+    "type": 2,
+    "id": "tonzipret"
+  },
+  {
+    "name": "Traumeel S",
+    "type": 2,
+    "id": "traumeel"
+  },
+  {
+    "name": "Траумель С",
+    "type": 2,
+    "id": "traumeel"
+  },
+  {
+    "name": "ТРАУМЕЛЬ С",
+    "type": 2,
+    "id": "traumelS"
+  },
+  {
+    "name": "Травмосан",
+    "type": 2,
+    "id": "travmosan"
+  },
+  {
+    "name": "Tuberculinum",
+    "type": 2,
+    "id": "tuberculinum"
+  },
+  {
+    "name": "Туберкулинум",
+    "type": 2,
+    "id": "tuberculinum"
+  },
+  {
+    "name": "Ubichinon compositum",
+    "type": 2,
+    "id": "ubichinonCompositum"
+  },
+  {
+    "name": "Убихинон композитум",
+    "type": 2,
+    "id": "ubichinonCompositum"
+  },
+  {
+    "name": "Uroregulan",
+    "type": 2,
+    "id": "uroregulan"
+  },
+  {
+    "name": "Урорегулан",
+    "type": 2,
+    "id": "uroregulan"
+  },
+  {
+    "name": "Ursitab Edas",
+    "type": 2,
+    "id": "ursitabEdas"
+  },
+  {
+    "name": "Урситаб Эдас",
+    "type": 2,
+    "id": "ursitabEdas"
+  },
+  {
+    "name": "Urtica",
+    "type": 2,
+    "id": "urtica"
+  },
+  {
+    "name": "Уртика",
+    "type": 2,
+    "id": "urtica"
+  },
+  {
+    "name": "УСПОКОЙ",
+    "type": 2,
+    "id": "uspokoy"
+  },
+  {
+    "name": "Venomil Edas",
+    "type": 2,
+    "id": "venomilEdas"
+  },
+  {
+    "name": "Веномил Эдас",
+    "type": 2,
+    "id": "venomilEdas"
+  },
+  {
+    "name": "Venophlebin",
+    "type": 2,
+    "id": "venophlebin"
+  },
+  {
+    "name": "Венофлебин",
+    "type": 2,
+    "id": "venophlebin"
+  },
+  {
+    "name": "Vensa",
+    "type": 2,
+    "id": "vensa"
+  },
+  {
+    "name": "Венза",
+    "type": 2,
+    "id": "vensa"
+  },
+  {
+    "name": "Вернисон",
+    "type": 2,
+    "id": "vernison"
+  },
+  {
+    "name": "Vertigoheel",
+    "type": 2,
+    "id": "vertigoheel"
+  },
+  {
+    "name": "Вертигохель",
+    "type": 2,
+    "id": "vertigoheel"
+  },
+  {
+    "name": "ВЕРТИГОХЕЛЬ",
+    "type": 2,
+    "id": "vertigohel"
+  },
+  {
+    "name": "Viburcol",
+    "type": 2,
+    "id": "viburcol"
+  },
+  {
+    "name": "Вибуркол",
+    "type": 2,
+    "id": "viburcol"
+  },
+  {
+    "name": "Viscumel Edas",
+    "type": 2,
+    "id": "viscumelEdas"
+  },
+  {
+    "name": "Вискумел Эдас",
+    "type": 2,
+    "id": "viscumelEdas"
+  },
+  {
+    "name": "Vocara",
+    "type": 2,
+    "id": "vocara"
+  },
+  {
+    "name": "Вокара",
+    "type": 2,
+    "id": "vocara"
+  },
+  {
+    "name": "Zeel T",
+    "type": 2,
+    "id": "zeel"
+  },
+  {
+    "name": "Цель Т",
+    "type": 2,
+    "id": "zeel"
+  },
+  {
+    "name": "Алоэ экстракт",
+    "type": 3,
+    "id": "aloeExtrakt"
+  },
+  {
+    "name": "Алтеплаза",
+    "type": 3,
+    "id": "alteplaza"
+  },
+  {
+    "name": "Аминокапроновая кислота",
+    "type": 3,
+    "id": "aminokapronovayaKislota"
+  },
+  {
+    "name": "Ампициллин + оксациллин",
+    "type": 3,
+    "id": "ampicilinOxacilin"
+  },
+  {
+    "name": "Апрофен",
+    "type": 3,
+    "id": "aprofen"
+  },
+  {
+    "name": "Арпенал",
+    "type": 3,
+    "id": "arpenal"
+  },
+  {
+    "name": "Азаметония бромид",
+    "type": 3,
+    "id": "azametoniyaBromid"
+  },
+  {
+    "name": "Биологически активные добавки",
+    "type": 3,
+    "id": "bad"
+  },
+  {
+    "name": "БАД",
+    "type": 3,
+    "id": "bad"
+  },
+  {
+    "name": "Циметидин",
+    "type": 3,
+    "id": "cimetidin"
+  },
+  {
+    "name": "Цизаприд",
+    "type": 3,
+    "id": "cizaprid"
+  },
+  {
+    "name": "Дицикловерин",
+    "type": 3,
+    "id": "dicikloverin"
+  },
+  {
+    "name": "Дифенгидрамин",
+    "type": 3,
+    "id": "difengidramin"
+  },
+  {
+    "name": "Дифенилтропин",
+    "type": 3,
+    "id": "difeniltropin"
+  },
+  {
+    "name": "Диизопропилламин",
+    "type": 3,
+    "id": "diizopropillamin"
+  },
+  {
+    "name": "Димекалония йодид",
+    "type": 3,
+    "id": "dimekaloniyaJodid"
+  },
+  {
+    "name": "Этадем",
+    "type": 3,
+    "id": "etadem"
+  },
+  {
+    "name": "Этамзилат",
+    "type": 3,
+    "id": "etamzilat"
+  },
+  {
+    "name": "Этпенал",
+    "type": 3,
+    "id": "etpenal"
+  },
+  {
+    "name": "Фемипентол",
+    "type": 3,
+    "id": "femipentol"
+  },
+  {
+    "name": "Феникарберан",
+    "type": 3,
+    "id": "fenikarberan"
+  },
+  {
+    "name": "Фенилбутазон",
+    "type": 3,
+    "id": "fenilbutazon"
+  },
+  {
+    "name": "Фибрин",
+    "type": 3,
+    "id": "fibrin"
+  },
+  {
+    "name": "Фуброгония йодид",
+    "type": 3,
+    "id": "fubrogoniyaJodid"
+  },
+  {
+    "name": "Гриба фузариум биомасса",
+    "type": 3,
+    "id": "fuzarium"
+  },
+  {
+    "name": "Ganglefene",
+    "type": 3,
+    "id": "ganglefen"
+  },
+  {
+    "name": "Ганглефен",
+    "type": 3,
+    "id": "ganglefen"
+  },
+  {
+    "name": "Гексаметония бензосульфат",
+    "type": 3,
+    "id": "gexametoniyaBenzosulfat"
+  },
+  {
+    "name": "Глауцин + Эфедрин",
+    "type": 3,
+    "id": "glaucinEfedryn"
+  },
+  {
+    "name": "Гуанетидин",
+    "type": 3,
+    "id": "guanetidin"
+  },
+  {
+    "name": "Хинидин",
+    "type": 3,
+    "id": "hinidin"
+  },
+  {
+    "name": "Хлорид кальция",
+    "type": 3,
+    "id": "hloridCalcium"
+  },
+  {
+    "name": "Хлорозил",
+    "type": 3,
+    "id": "hlorozil"
+  },
+  {
+    "name": "Бутилированный гидрокситолуол",
+    "type": 3,
+    "id": "hydroxitoluol"
+  },
+  {
+    "name": "Келлин",
+    "type": 3,
+    "id": "kellin"
+  },
+  {
+    "name": "Клонидин",
+    "type": 3,
+    "id": "klonidin"
+  },
+  {
+    "name": "Кодеин + Кофеин + Метамизол натрия + Напроксен + Фенобарбитал",
+    "type": 3,
+    "id": "kodeinKofein"
+  },
+  {
+    "name": "Кватерон",
+    "type": 3,
+    "id": "kvateron"
+  },
+  {
+    "name": "Менадиона натрия бисульфит",
+    "type": 3,
+    "id": "menadionaNatriyaBisulfit"
+  },
+  {
+    "name": "Митилурацил",
+    "type": 3,
+    "id": "mitiluracil"
+  },
+  {
+    "name": "Мизопростол",
+    "type": 3,
+    "id": "mizoprostol"
+  },
+  {
+    "name": "Настойка боярышника",
+    "type": 3,
+    "id": "nastoykaBoyaryshnika"
+  },
+  {
+    "name": "Пемпидин",
+    "type": 3,
+    "id": "pempidin"
+  },
+  {
+    "name": "Поливинокс",
+    "type": 3,
+    "id": "polivinoks"
+  },
+  {
+    "name": "Преднизолон",
+    "type": 3,
+    "id": "prednizolon"
+  },
+  {
+    "name": "Раувольфия",
+    "type": 3,
+    "id": "rauvolfiya"
+  },
+  {
+    "name": "Резерпин",
+    "type": 3,
+    "id": "rezerpin"
+  },
+  {
+    "name": "Сирепар",
+    "type": 3,
+    "id": "sirepar"
+  },
+  {
+    "name": "Стрихнина нитрат",
+    "type": 3,
+    "id": "strihninaNitrat"
+  },
+  {
+    "name": "Строфантин",
+    "type": 3,
+    "id": "strofantin"
+  },
+  {
+    "name": "Сульфацетамид",
+    "type": 3,
+    "id": "sulfacetamid"
+  }
+]
