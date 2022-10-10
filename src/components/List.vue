@@ -1,35 +1,44 @@
 <template>
-  <v-layout row wrap>
-      <v-flex xs12>
-        <Select2  v-model="myValue" :options="list" :settings="{ settingOption: 'name', settingOption: 'name' }" @change="myChangeEvent($event)" @select="mySelectEvent($event)" />
-      </v-flex>
-     <v-flex v-for="(i, index ) in list" :key="index" xs12>
-       {{i.name}}
+  <div>
+  <v-layout row wrap >
+     <v-flex xs12 class="search">
+       <div class="search-wrapper">
+         <input type="text" v-model="search" placeholder="Пошук"/>
+       </div>
      </v-flex>
   </v-layout>
+  <v-layout row wrap class="main">
+     <v-flex class="list" xs12>
+       <div v-for="(i, index ) in filteredList" :key="index" >
+         <ListItem :item="i"/>
+       </div>
+     </v-flex>
+  </v-layout>
+  </div>
 </template>
 
 <script>
 import list from '../asserts/list.json'
+import ListItem from '../atoms/ListItem.vue'
 import Select2 from 'v-select2-component';
 export default {
   name: 'List',
   components:{
     list,
+    ListItem,
     Select2
   },
   data () {
     return {
-      myValue: '',
+      search: '',
       list: list
     }
   },
-  methods: {
-    myChangeEvent(val){
-      console.log(val);
-    },
-    mySelectEvent({id, text}){
-      console.log({id, text})
+  computed: {
+    filteredList() {
+      return this.list.filter(med => {
+        return med.name.toLowerCase().includes(this.search.toLowerCase())
+      })
     }
   },
   created() {
@@ -48,22 +57,36 @@ export default {
 
 
 <style scoped>
-h1, h2 {
-  font-weight: normal;
+.main {
+  margin: 20px 20px;
+  padding: 10px;
+  border-radius: 8px;
+  background: rgba(255,245,215,0.3);
+  max-height: 100%;
 }
-ul {
-  list-style-type: none;
+.search {
   padding: 0;
+  height: 45px;
 }
-li {
-  display: inline-block;
-  margin: 0 10px;
+.list {
+  max-height: 78vh;
+  font-size: 26px;
+  font-weight: 700;
+  overflow-y: scroll;
 }
-a {
-  color: #42b983;
+.search-wrapper {
+
 }
-.select2 {
-  width: 100%
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 1; /* Firefox */
 }
 
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: white;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: white;
+}
 </style>
