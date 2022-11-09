@@ -1,32 +1,35 @@
 <template>
   <div>
     <div v-if="type === 1">
-      <IconFuflo/>
+      <font-awesome-icon class='fuflomicine' icon="fa-solid fa-pills"/>
     </div>
     <div v-if="type === 2">
-      <IconHomeopathy/>
+      <font-awesome-icon class="homeopathy" icon="fa-solid fa-mortar-pestle"/>
     </div>
     <div v-if="type === 3">
-      <IconForbid/>
+      <font-awesome-icon class="forbid" icon="fa-solid fa-ban"/>
     </div>
   </div>
 </template>
 
 <script>
-import IconForbid from "./icons/IconForbid";
-import IconFuflo from "./icons/IconFuflo";
-import IconHomeopathy from "./icons/IconHomeopathy";
 export default {
   name: "ItemType",
-  props: ['type'],
-  components: {
-    IconForbid,
-    IconFuflo,
-    IconHomeopathy
-  }
+  props: ['type']
 }
 </script>
 
 <style scoped>
+.fuflomicine {
+  color: #007bff;
+}
+
+.homeopathy {
+  color: #ffc107;
+}
+
+.forbid {
+  color: #dc3545;
+}
 
 </style>
